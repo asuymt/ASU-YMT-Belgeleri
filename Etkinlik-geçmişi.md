@@ -13,9 +13,9 @@
 
 ## ETKİNLİKLER
 
-- 13.10.2025 : ASÜ Müh. Fak. Konferans Salonunda üyelerle ilk buluşma yapıldı.
-- 15.10.2025 : ASÜ İğde Festivali (15-16 Ekim) etkinliğinde stant açıldı.
-- 17.10.2025 : Kahvaltı ve at binme etkinliği düzenlendi.
+- 13.10.2025 : ASÜ Müh. Fak. Konferans Salonunda üyelerle ilk buluşma yapıldı. 40+ katılım.
+- 15.10.2025 : ASÜ İğde Festivali (15-16 Ekim) etkinliğinde stant açıldı. 
+- 17.10.2025 : Kahvaltı ve at binme etkinliği düzenlendi. 40 katılım.
 
 
 <br>

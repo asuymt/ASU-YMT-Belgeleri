@@ -121,85 +121,15 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 
 **Organizasyon Şeması:**
 - Yönetim Kurulu
-  - Denetim Kurulu
   - Yürütme Komiteleri
   - Proje Komiteleri
     - Proje Yöneticileri
       - Takım Üyeleri
         - Topluluk Üyeleri
+- Denetim Kurulu
+  - Denetim kurulu üyeleri
 
-
-
-### 2.2 Yönetim Kurulu
-
-Genel Kurul tarafından seçilen 1 asıl ve 1 yedek üyeden oluşur. 
-
-- **Başkan:** Topluluğun lideri ve resmi temsilcisidir. Yönetim Kurulu toplantılarına başkanlık eder, genel koordinasyonu sağlar.
-- **Başkan Yardımcısı:** Başkana görevlerinde yardımcı olur, başkanın yokluğunda vekalet eder, kurul içi iletişimi ve görev dağılımını koordine eder.
-- **Genel Sekreter:** Topluluğun resmi yazışmalarını, üye kayıtlarını, toplantı tutanaklarını ve evrak işlerini yürütür.
-- **Sayman:** Topluluğun mali işlerinden sorumludur. Bütçeyi yönetir, gelir-gider takibini yapar, aidatları toplar.
-- **Proje ve Eğitim Koordinatörü:** Teknik eğitimlerin, atölyelerin ve proje gruplarının oluşturulmasını ve takibini organize eder.
-- **Etkinlik ve Organizasyon Sorumlusu:** Sosyal etkinliklerin, seminerlerin, gezilerin ve yarışmaların lojistik planlamasını yapar.
-- **İletişim ve Sosyal Medya Sorumlusu:** Topluluk duyurularını yapar, sosyal medya hesaplarını yönetir, topluluğun dijital kimliğinden sorumludur.
-- **Yönetim Kurulu Üyeleri:** Yönetim Kurulu'nun diğer üyeleri, belirli görev ve sorumlulukları üstlenir, projelerin ve etkinliklerin başarılı bir şekilde yürütülmesini sağlar.
-
-**Görev ve Sorumlulukları:**
-- Topluluğu temsil etmek.
-- Yıllık faaliyet planını ve bütçeyi hazırlayıp Genel Kurul'a sunmak.
-- Faaliyetleri organize etmek ve yürütmek.
-- Üyelik başvurularını karara bağlamak.
-- Topluluğun demirbaş ve mali kayıtlarını tutmak.
-
-**Toplantılar:**
-- **Çağrı Usulü:** Yönetim Kurulu, başkanın çağrısı üzerine toplanır.
-- **Toplantı ve Karar Yeter Sayısı:** Yönetim Kurulu, en az 5 üyenin katılımıyla toplanır ve kararlar katılanların çoğunluğuyla alınır. Topluluk başkanı, yardımcısı ve topluluk danışman hocasının onayları ile kararlar kesinleşir.
-
-**Yönetim Kurulu Seçimi:**
-- Yönetim Kurulu üyeleri, Aksaray Üniversitesi Mühendislik Fakültesi Yazılım Mühendisliği Bölümü öğrencileri arasından olmak zorundadır.
-- Yönetim Kurulu üyeleri, her yıl toplanacak Genel Kurul'da üyeler arasından gizli oyla seçilir.
-- Yönetim kurulu üyeliği için aday olabilmek için kurula başvuru yapılması gerekmektedir.
-
-**Hüküm Bulunmayan Haller:**
-Yönetim Kurulu, tüzükte ve kurallarda belirtilmeyen konularda karar alma yetkisine sahiptir. Bu tür durumlarda, üyelerin görüşlerini alarak en uygun çözümü bulmakla yükümlüdür.
-
-
-### 2.3 Denetim Kurulu
-Genel Kurul tarafından seçilen 1 asıl ve 1 yedek üyeden oluşur.
-
-**Görev ve Sorumlulukları:**
-- Yönetim Kurulu'nun faaliyetlerinin tüzüğe ve Genel Kurul kararlarına uygunluğunu denetlemek.
-- Topluluğun mali kayıtlarını ve hesaplarını belirli aralıklarla denetlemek.
-- Denetim raporunu hazırlayarak Genel Kurul'a sunmak.
-
-
-### 2.4 Yürütme Komiteleri
-
-**Amaç ve Oluşum:** Yürütme Komiteleri, Yönetim Kurulu'nun belirlediği stratejiler doğrultusunda, topluluğun sürekli ve operasyonel faaliyetlerini yürütmek amacıyla oluşturulan alt birimlerdir. Her komite, bir Yönetim Kurulu üyesinin koordinatörlüğünde çalışır ve doğrudan Yönetim Kurulu'na karşı sorumludur.
-
-**Komitelerin Belirlenmesi:** Komiteler, her faaliyet döneminin başında Yönetim Kurulu tarafından ihtiyaçlar doğrultusunda kurulur, birleştirilebilir veya son verilebilir.
-
-**Komite Üyeliği:** Topluluğun aktif üyeleri, ilgi ve yetenekleri doğrultusunda bu komitelerde görev almak için başvuruda bulunabilirler. Görevlendirmeler ilgili komite koordinatörü ve Yönetim Kurulu tarafından yapılır.
-
-**Temel Yürütme Komiteleri ve Görevleri:**
-
-- **Sosyal Medya ve İletişim Komitesi:** Topluluğun sosyal medya hesaplarını yönetir, etkinlik duyurularını ve tasarımlarını yapar, dijital içerik (video, afiş, bülten) üretir.
-- **Halkla İlişkiler ve Sponsorluk Komitesi (PR):** Üniversite içindeki ve dışındaki kurumlarla (diğer topluluklar, şirketler, mezunlar) ilişkileri yönetir. Etkinlikler için sponsorluk görüşmeleri yapar.
-- **Etkinlik ve Organizasyon Komitesi:** Seminer, atölye, teknik gezi ve sosyal etkinliklerin lojistik planlamasını (yer, zaman, materyal vb.) yapar ve etkinlik sırasında operasyonu yönetir.
-- **Eğitim ve İçerik Komitesi:** Düzenlenecek eğitimlerin müfredatını hazırlar, eğitmenleri belirler, teknik blog yazılarını ve eğitim materyallerini oluşturur.
-
-
-### 2.5 Proje Komiteleri
-
-**Amaç ve Oluşum:** Proje ve Geliştirme Grupları, üyelerin belirli bir teknoloji veya proje fikri etrafında bir araya gelerek uygulama geliştirme, araştırma yapma veya yarışmalara hazırlanma amacıyla kurdukları özerk çalışma gruplarıdır.
-
-**Grup Kurma Süreci:**
-- En az 2 aktif üye bir araya gelerek proje önerilerini (amaç, kullanılacak teknoloji, tahmini süre) Yönetim Kurulu'na sunar.
-- Yönetim Kurulu, projenin topluluk amaçlarına uygunluğunu değerlendirerek grubu resmi olarak tanır.
-
-**İşleyiş:**
-- Her grup kendi içinden bir takım lideri seçer.
-- Gruplar, çalışmalarını yürütmede bağımsızdır ancak gelişim süreçleri hakkında belirli aralıklarla (örn: ayda bir) Yönetim Kurulu'ndaki Proje ve Eğitim Koordinatörü'ne rapor sunarlar.
-- Topluluk, bu gruplara imkanlar dahilinde mentorluk, çalışma alanı veya materyal desteği sağlamaya çalışır.
+bkz. [Organizasyon-semasi.md](Organizasyon-semasi.md)
 
 
 
