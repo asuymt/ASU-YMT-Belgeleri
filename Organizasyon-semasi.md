@@ -1,4 +1,4 @@
-# ASÜ-YMT Organizasyon Şeması
+# ASÜ-YMT Organizasyon Şeması 
 
 Ekiplerin / Grupların Yapısı:
 - Ekipler / Gruplar
@@ -29,7 +29,6 @@ Ekiplerin / Grupların Yapısı:
 
 - Proje ve Yarışma Komitesi
   - Direktör
-  - VTOL İHA ekibi
 
 <br>
 
@@ -82,33 +81,37 @@ Bu döküman, Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu'nun (AS�
 ### 1.1 Temel Hiyerarşi: Ekip / Grup Yapısı
 
 Topluluğun en küçük fonksiyonel birimi "Ekip" veya "Grup" olarak adlandırılır. Her birim şu yapıdan oluşur:
-* **Ekip Lideri:** Ekibin/grubun yönetiminden, motivasyonundan ve hedeflerine ulaşmasından sorumludur. İlgili Direktöre veya kurula raporlama yapar.
+* **Ekip Lideri:** Ekibin/grubun yönetiminden, motivasyonundan ve hedeflerine ulaşmasından sorumludur. İlgili Direktöre raporlama yapar.
 * **Aktif Üyeler:** Ekibin ana iş gücünü oluşturan, görev ve sorumluluk alan, projelere/faaliyetlere doğrudan katılan üyelerdir.
-* **Pasif Üyeler:** Ekibin/grubun faaliyetlerini uzaktan takip eden, bilgi birikiminden faydalanan ve potansiyel olarak aktif üye olmaya aday üyelerdir.
+* **Pasif Üyeler:** Faaliyetleri uzaktan takip eden, bilgi birikiminden faydalanan ve potansiyel olarak aktif üye olmaya aday üyelerdir.
 
 <br><br>
 
-## 2.0 YÖNETİM KURULU (YK)
+## 2 YÖNETİM KURULU (YK) - (Stratejik Kadro)
 
-Topluluğun en üst düzey karar alma ve yürütme organıdır. İki ana yapıdan oluşur:
+Topluluğun en üst düzey stratejik karar alma ve yasal yürütme organıdır.
+Topluluğun yasal, finansal ve stratejik yönetiminden sorumlu olan ana karar alıcı ekiptir. 
+**İlk ve temel görevi** topluluğun mevcut durumunu denetlemek, iyileştirmek ve sürdürülebilirliğini sağlamaktır.
 
-<br>
-
-### 2.1 Çekirdek YK (Stratejik Kadro)
-Topluluğun yasal, finansal ve stratejik yönetiminden sorumlu olan ana karar alıcı ekiptir.
 * **Başkan:** Topluluğun en üst düzey temsilcisi ve lideridir. Stratejik vizyonu belirler, üniversite yönetimi ve dış paydaşlarla (ana sponsorlar, kurumlar) ilişkileri yönetir. YK'ya başkanlık eder.
-* **Başkan Yardımcısı:** Operasyonel faaliyetlerin baş yöneticisidir. Tüm Direktörlerin (Operasyonel YK) koordinasyonundan, denetiminden ve YK kararlarının uygulanmasından sorumludur. Başkanın yokluğunda vekalet eder.
+* **Başkan Yardımcısı:** Operasyonel faaliyetlerin denetleyicisidir. Tüm Direktörlerin (Bkz. 3.0) koordinasyonundan ve YK kararlarının operasyona doğru aktarılmasından sorumludur. Başkanın yokluğunda vekalet eder.
 * **Sekreter:** Topluluğun idari ve hukuki işlerinden sorumludur. Üye kayıtlarını tutar, resmi yazışmaları (izinler, dilekçeler) yürütür, YK toplantı tutanaklarını (karar defteri) tutar.
-* **Sayman:** Topluluğun finansal yönetiminden sorumludur. Bütçeyi hazırlar ve yönetir, harcamaları takip eder, sponsorluk görüşmelerinin finansal altyapısını yönetir ve mali raporları YK'ya sunar.
+* **Sayman:** Topluluğun finansal yönetiminden sorumludur. Bütçeyi hazırlar ve yönetir, harcamaları takip eder, sponsorlukların mali altyapısını yönetir ve mali raporları YK'ya sunar.
 
 <br>
 
-### 2.2 Operasyonel YK (Yürütme Kadrosu)
-Çekirdek YK tarafından belirlenen stratejileri ve hedefleri, kendi komiteleri aracılığıyla hayata geçiren yöneticilerdir. Doğrudan Başkan Yardımcısı'na raporlama yaparlar.
-* **Proje Direktörü:** (Bkz. 4.0)
-* **Etkinlik Direktörü:** (Bkz. 5.0)
-* **Eğitim Direktörü:** (Bkz. 6.0)
-* **Sosyal Medya Direktörü:** (Bkz. 7.0)
+### 3 DİREKTÖRLER KURULU (DK) - (Operasyonel Kadro)
+
+Yönetim Kurulu tarafından belirlenen stratejileri ve hedefleri, kendi komiteleri aracılığıyla sahada uygulayan ve operasyonu yürüten yönetici kadrosudur.
+Topluluğun hedeflerine ulaşması için gerekli operasyonel faaliyetlerin planlanması, organize edilmesi ve yürütülmesinden sorumludurlar.
+Komiteler arası koordinasyondan sorumludurlar.
+
+**İşleyiş**: Direktörler, Yönetim Kurulu'na (YK) düzenli raporlama yapar. YK toplantılarına, sadece kendi komiteleriyle ilgili bir gündem maddesi olduğunda veya genel operasyonel raporlama için davet edilirler ve söz hakkı sahibi olurlar.
+
+* **Proje Direktörü:** (Bkz. 5.1)
+* **Etkinlik Direktörü:** (Bkz. 5.2)
+* **Eğitim Direktörü:** (Bkz. 5.3)
+* **Sosyal Medya Direktörü:** (Bkz. 5.4)
 
 <br><br>
 
@@ -124,7 +127,7 @@ Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı
 ## 4.0 PROJE VE YARIŞMA KOMİTESİ
 
 * **Lider:** Proje Direktörü
-* **Amacı:** Topluluğun ulusal ve uluslararası platformlarda (Teknofest, vb.) başarı elde etmesini sağlayacak, büyük ölçekli ve genellikle disiplinler arası (robotik, yapay zeka, gömülü sistemler gibi) takımların kurulmasını ve yönetilmesini sağlar.
+* **Amacı:** Topluluğun amacı ve hedefi gereğince projelerin ulusal ve uluslararası platformlarda (Teknofest, vb.) başarı elde etmesini sağlayacak takımların kurulmasını ve yönetilmesini sağlar.
 * **Ekipler:**
     * **VTOL İHA Ekibi:** Dikey Kalkış ve İniş yapabilen İnsansız Hava Aracı geliştirmek, üretmek ve ilgili yarışmalara katılmak üzere odaklanmış özel proje ekibidir.
     * *(Bu komite, VTOL gibi diğer büyük, spesifik ve uzun vadeli proje takımlarını (örn: Roket Ekibi, Otonom Araç Ekibi) bünyesinde barındırır.)*
@@ -148,7 +151,7 @@ Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı
 ## 6.0 EĞİTİM KOMİTESİ
 
 * **Lider:** Eğitim Direktörü
-* **Amacı:** Üyelerin akademik ve teknik yeterliliklerini artıracak *yapılandırılmış* eğitim faaliyetlerini planlar ve yürütür.
+* **Amacı:** Üyelerin teorik ve teknik yeterliliklerini artıracak *yapılandırılmış* eğitim faaliyetlerini planlar ve yürütür.
 * **Ekipler:**
     * **Atölye ve Seminer Ekibi:** Dönemlik eğitim takvimini oluşturur. Konuşmacıları (ister topluluk içinden ister dışarıdan) belirler, atölye (workshop) ve seminerleri organize eder.
     * **Kaynak Geliştirme Ekibi:** Eğitimlerde kullanılan sunumları, kod örneklerini ve dökümanları derler. Topluluğun resmi GitHub reposunu ve "bilgi bankasını" (notion, wiki vb.) yönetir.
