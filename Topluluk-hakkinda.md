@@ -7,15 +7,15 @@
 - 15.05.2025 - Sistem Hazırlanıyor
 - 21.05.2025 - Belgeler Oluşturuluyor
 - 21.07.2025 - Discord
-- 23.07.2025 - Whatsapp
+- 23.07.2025 - WhatsApp
 - 25.07.2025 - Topluluk Yönetimi Belirleniyor
 - 30.09.2025 - Topluluk Kurma Başvurusu Yapıldı
 - 07.10.2025 - Topluluk Resmi Olarak Oluşturuldu
-- 07.10.2025 - Topluluk İnstagram hesabı açıldı
-- 10.10.2025 - Topluluk Github hesabı açıldı
+- 08.10.2025 - Topluluk İnstagram hesabı açıldı
+- 10.10.2025 - Topluluk GitHub hesabı açıldı
 
-- instagram: [@asuymt](https://www.instagram.com/asüymt)
-- github   : [@asuymt](https://github.com/asuymt)
+- İnstagram: [@asuymt](https://www.instagram.com/asuymt/)
+- GitHub: [@asuymt](https://github.com/asuymt)
 
 <hr><br><br>
 
@@ -30,18 +30,14 @@
   - [1.5 Hedefler](#15-hedefler)
   - [1.6 Kuruluş Hikayesi](#16-kuruluş-hikayesi)
   - [1.7 Faaliyet Alanları](#17-faaliyet-alanları)
-- [2. TOPLULUK ORGANLARI, ROLLERİ VE GÖREVLERİ](#2-topluluk-organlari-rolleri-ve-görevleri)
-  - [2.2 Yönetim Kurulu](#22-yönetim-kurulu)
-  - [2.3 Denetim Kurulu](#23-denetim-kurulu)
-  - [2.4 Yürütme Komiteleri](#24-yürütme-komiteleri)
-  - [2.5 Proje Komiteleri](#25-proje-komiteleri)
+- [2. TOPLULUK ORGANLARI VE YÖNETİM YAPISI](#2-topluluk-organlari-ve-yönetim-yapisi)
 - [3. ÜYELİK İŞLEMLERİ](#3-uyelik-islemleri)
   - [3.1 Üyelik Şartları](#31-uyelik-sartlari)
   - [3.2 Üyeliğe Kabul, Ayrılma ve Çıkarılma](#32-uyelige-kabul-ayrilma-ve-cikarilma)
   - [3.3 Üyelerin Hak ve Sorumlulukları](#33-uyelerin-hak-ve-sorumluluklari)
 - [4. DEFTERLER VE EVRAKLAR](#4-defterler-ve-evraklar)
 - [5. DİSİPLİN HÜKÜMLERİ](#5-disiplin-hukumleri)
-- [6. Resmi İletişim, Temsil ve Beyanat Yetkisi](#6-resmi-iletisim-temsil-ve-beyanat-yetkisi)
+- [6. RESMİ İLETİŞİM, TEMSİL VE BEYANAT YETKİSİ](#6-resmi-iletisim-temsil-ve-beyanat-yetkisi)
 
 
 
@@ -67,14 +63,17 @@
 Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu, yazılım ve teknolojiye ilgi duyan öğrencilerin bir araya gelerek bilgi ve tecrübelerini paylaşmalarını, birlikte öğrenmelerini, projeler geliştirmelerini ve kendilerini geleceğe en iyi şekilde hazırlamalarını sağlamak amacıyla Ekim 2025'te kurulmuş bir öğrenci topluluğudur.
 
 ### 1.1 Felsefe
-    "Etrafındakilerin ortalaması kadarsın."
-İçinde bulunulan çevre başarının önemli bir etkenidir. <br>
+
+> "Etrafındakilerin ortalaması kadarsın."
+
+İçinde bulunulan çevre başarının önemli bir etkenidir.
+
 Bu nedenle; meraklı olanın bilgisini, tecrübeli olanın deneyimini paylaştığı, herkesin hem öğrenci hem de öğretmen olduğu bir kültürle birbirimizi sürekli olarak yukarı çeken bir ortam yaratmayı ilke ediniyoruz.
 
 ### 1.2 Amaç
 - **Ana Amaç:** Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teorik ve pratik bilgilerini artırmak, sektörle bağlarını güçlendirmek, sosyal ve profesyonel gelişimlerine katkıda bulunmak.
 - Disiplinler arası projeler üreterek ulusal platformlarda başarı hedeflemek ve Aksaray Üniversitesi'ni teknoloji alanında tanınır bir marka haline getirmek.
-- Sektörün gerçek problemlerine çözüm üreten, teoriyi pratiğe döken ve portfolyosunu daha mezun olmadan oluşturan bireyler yetiştirmek.
+- Sektörün gerçek problemlerine çözüm üreten, teoriyi pratiğe döken ve portföyünü daha mezun olmadan oluşturan bireyler yetiştirmek.
 - Teknopark ve kuluçka merkezleriyle aktif iş birlikleri geliştirerek, öğrenci projelerinin ticarileşebilen girişimlere dönüşmesine öncülük etmek.
 
 ### 1.3 Misyon
@@ -112,7 +111,7 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 <br><br>
 
 
-## 2. TOPLULUK ORGANLARI, ROLLERİ VE GÖREVLERİ
+## 2. TOPLULUK ORGANLARI VE YÖNETİM YAPISI
 
 - Topluluk organizasyonu ve rolleri, topluluğun etkin ve verimli bir şekilde yönetilmesini ve sürdürülebilirliğini sağlamak amacıyla yapılandırılmıştır.
 - Topluluk, hiyerarşik bir yapıya sahip olup, her üyenin rolü ve sorumlulukları net bir şekilde anlamlandırılmıştır.
@@ -121,13 +120,39 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 
 **Organizasyon Şeması:**
 - Yönetim Kurulu
-  - Yürütme Komiteleri
-  - Proje Komiteleri
-    - Proje Yöneticileri
-      - Takım Üyeleri
-        - Topluluk Üyeleri
-- Denetim Kurulu
-  - Denetim kurulu üyeleri
+  - Çekirdek Yönetim Kurulu
+    - Başkan
+    - Başkan Yardımcısı
+    - Sekreter
+    - Sayman
+  - Operasyonel Yönetim Kurulu
+    - Proje Direktörü
+    - Etkinlik Direktörü
+    - Eğitim Direktörü
+    - Sosyal Medya Direktörü
+  - Denetleme Kurulu
+- Komiteler
+  - Proje ve Yarışma Komitesi
+    - Proje Direktörü
+      - Proje Ekipleri
+  - Etkinlik ve Sosyal İşler Komitesi
+    - Etkinlik Direktörü
+      - Etkinlik Ekibi
+  - Eğitim Komitesi
+    - Eğitim Direktörü
+      - Atölye ve Seminer Ekibi
+      - Kaynak Geliştirme Ekibi
+  - Medya ve İletişim Komitesi
+    - Sosyal Medya Direktörü
+      - Sosyal Medya Yönetim Ekibi
+      - Topluluk Web Sitesi Ekibi
+- Bağımsız Gruplar
+  - Web Ekibi
+  - Yapay Zeka Ekibi
+  - Robotik Ekibi
+  - Oyun Geliştirme Ekibi
+  - Masaüstü Uygulama Ekibi
+  - Mobil Uygulama Ekibi
 
 bkz. [Organizasyon-semasi.md](Organizasyon-semasi.md)
 
@@ -175,9 +200,9 @@ Bu bölüm, topluluğa kimlerin, nasıl katılabileceğini ve üyelik durumları
 ## 4. DEFTERLER VE EVRAKLAR
 ### 4.1 Üye Kayıt Defteri
 ### 4.2 Karar Defteri
-### 4.3 Muhasebe Defteri
-### 4.4 Demirbaş Eşya Defteri
-### 4.5 Etkinlik Dosyası
+### 4.3 Etkinlik Dosyası
+### 4.4 Muhasebe Defteri
+### 4.5 Demirbaş Eşya Defteri
 
 
 
@@ -189,5 +214,7 @@ Bu bölüm, topluluğa kimlerin, nasıl katılabileceğini ve üyelik durumları
 ### 5.2 Disiplin Süreci ve Savunma Hakkı
 ### 5.3 Disiplin Cezaları
 
-## 6. Resmi İletişim, Temsil ve Beyanat Yetkisi
+<br><br>
+
+## 6. RESMİ İLETİŞİM, TEMSİL VE BEYANAT YETKİSİ
 
