@@ -67,13 +67,17 @@ Ekiplerin / Grupların Yapısı:
 
 # ASÜ-YMT ORGANİZASYON YAPISI VE GÖREV TANIMLARI
 
+
 <br><br>
+
+
 
 ## 1.0 GİRİŞ
 
 Bu doküman, Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu'nun (ASÜ-YMT) operasyonel verimliliğini, sürdürülebilirliğini ve hedeflerine ulaşmasını sağlamak amacıyla oluşturulan resmi organizasyon şemasını ve görev tanımlarını içerir. Şema, karar alma mekanizmalarını, sorumluluk alanlarını ve birimler arası iş akışını netleştirmek için tasarlanmıştır.
 
 <br>
+
 
 ### 1.1 Temel Hiyerarşi: Ekip / Grup Yapısı
 
@@ -84,11 +88,15 @@ Topluluğun en küçük fonksiyonel birimi "Ekip" veya "Grup" olarak adlandırı
 
 <br><br>
 
+
+
+
 ## 2.0 YÖNETİM KURULU (YK) - (Stratejik Kadro)
 
 Topluluğun en üst düzey stratejik karar alma ve yasal yürütme organıdır.
 Topluluğun yasal, finansal ve stratejik yönetiminden sorumlu olan ana karar alıcı ekiptir. 
 **İlk ve temel görevi** topluluğun mevcut durumunu denetlemek, iyileştirmek ve sürdürülebilirliğini sağlamaktır.
+
 
 ### 2.1 Çekirdek Yönetim Kurulu
 
@@ -111,6 +119,8 @@ Topluluğun stratejik yönetiminden sorumlu çekirdek kadrodur. **Ana görevleri
   * *İkinci Görev:* Bütçeyi hazırlar, tüm gelir-giderleri takip eder ve mali raporları YK'ya düzenli olarak sunar. Sponsorluk anlaşmalarının mali süreçlerini yönetir ve finansal şeffaflığı sağlar.
 
 <br>
+
+
 
 ### 2.2 Operasyonel Yönetim Kurulu
 
@@ -135,12 +145,16 @@ Komiteler arası koordinasyondan sorumludurlar.
 <br><br>
 
 
+
+
 ## 2.3 DENETLEME KURULU
 
 Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı sorumlu olan denetim organıdır.
 * **Amacı:** YK'nın faaliyetlerinin ve Sayman'ın mali hesaplarının topluluk tüzüğüne ve amaçlarına uygunluğunu denetler. Dönem sonunda Genel Kurul'a denetim raporu sunar.
 
 <br><br>
+
+
 
 
 ## 3.0 PROJE VE YARIŞMA KOMİTESİ
@@ -164,6 +178,8 @@ Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı
 <br><br>
 
 
+
+
 ## 4.0 ETKİNLİK VE SOSYAL İŞLER KOMİTESİ
 
 * **Lider:** Etkinlik Direktörü
@@ -185,6 +201,7 @@ Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı
     * **Koordinasyon:** Diğer komitelerin organize ettiği tüm etkinliklerin lojistik desteğini sağlar ve topluluk kültürünü korur.
 
 <br><br>
+
 
 
 
@@ -216,6 +233,8 @@ Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı
 
 
 <br><br>
+
+
 
 
 ## 6.0 MEDYA VE İLETİŞİM KOMİTESİ
@@ -253,16 +272,40 @@ Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı
 <br><br>
 
 
+
+
 ## 7.0 BAĞIMSIZ GRUPLAR (Teknoloji Odak Grupları)
 
 * **Yapı:** Bu gruplar, komitelerden farklı olarak *konu bazlı* organize olmuş, *kendi kendini yöneten* (özerk) teknik çalışma gruplarıdır.
-* **Amacı:** Aynı teknolojiye ilgi duyan üyelerin (Web, AI, Robotik vb.) bir araya gelerek *birlikte öğrenmesini*, *bilgi paylaşmasını* ve *grup içi küçük/orta ölçekli projeler* geliştirmesini sağlar.
-* **İşleyiş:** Bu gruplar, "Eğitim Komitesi" gibi resmi eğitim düzenlemez, ancak kendi aralarında bilgi alışverişi yaparlar.
+
+* **Amacı:** 
+  * Aynı teknoloji alanına ilgi duyan üyelerin bir araya gelerek **rahat ve özgür bir ortamda sohbet etmesini**, **bilgi paylaşmasını**, **deneyim aktarmasını** ve **teknik sorunlarını birlikte tartışmasını** sağlar.
+  * Bu gruplar, resmi bir eğitim yapısı değil, **peer-to-peer (akran-akran) öğrenme ve destek ağı** oluşturur.
+  * Üyeler kendi ilgi alanlarına göre gruplara katılır, soru sorar, deneyimlerini paylaşır, birbirlerine yardımcı olur ve birlikte gelişirler.
+
+* **İşleyiş:** 
+  * Bu gruplar **resmi eğitim düzenlemez**, ancak kendi aralarında **informal bilgi alışverişi ve teknik tartışmalar** yaparlar.
+  * Grup üyeleri, Discord kanalları, WhatsApp grupları veya düzenli fiziksel buluşmalar aracılığıyla **sohbet eder, soru sorar, çözüm önerir ve deneyim paylaşır**.
+  * Her grubun bir **grup lideri** olabilir (isteğe bağlı), ancak bu lider bir "yönetici" değil, grubu **motive eden, tartışmaları organize eden ve aktif tutan bir koordinatör** rolündedir.
+
+* **Proje İlişkisi:**
+  * Bir bağımsız grubun üyeleri, kendi aralarında **proje yapmaya karar verirlerse**, **Proje ve Yarışma Komitesi**'ne başvurarak resmi bir **proje ekibi** oluştururlar.
+  * Örneğin, Robotik Grubu'ndan 5 kişi Teknofest için VTOL İHA projesi yapmak isterse, bu ekip **Proje ve Yarışma Komitesi** bünyesine dahil olur ve Proje Direktörü ile birlikte çalışır.
+  * Proje ekibi oluştuktan sonra, o ekip artık sadece "bağımsız grup" değil, aynı zamanda **resmi proje ekibi** olarak faaliyet gösterir.
+
 * **Komitelerle Etkileşimi:**
-    * **Eğitim:** Web Grubu, bir "React Atölyesi" yapmak isterse, **Eğitim Komitesi**'ne başvurur.
-    * **Etkinlik:** AI Grubu, bir "AI Sohbeti" etkinliği yapmak isterse, **Etkinlik Komitesi**'nden lojistik (salon, duyuru) desteği ister.
-    * **Medya:** Mobil Grubu, geliştirdiği bir uygulamayı duyurmak isterse, **Medya Komitesi**'nden afiş ve sosyal medya desteği alır.
-    * **Proje:** Robotik Grubu, Teknofest'e katılacak büyük bir proje (örn: VTOL İHA) başlatırsa, bu ekip **Proje ve Yarışma Komitesi**'nin bünyesine dahil olur.
+  * **Eğitim Komitesi:** Bir grup (örn: Web Grubu), kendi konularında **resmi bir atölye veya seminer** düzenlemek isterse, **Eğitim Komitesi**'ne başvurur ve birlikte organize eder.
+  * **Etkinlik Komitesi:** Bir grup (örn: AI Grubu), **teknik sohbet etkinliği** veya **demo günü** düzenlemek isterse, **Etkinlik Komitesi**'nden lojistik destek (salon, teknik altyapı, duyuru) alır.
+  * **Medya Komitesi:** Bir grup, geliştirdiği bir çalışmayı veya etkinliğini **duyurmak isterse**, **Medya Komitesi**'nden görsel tasarım ve sosyal medya desteği alır.
+  * **Proje Komitesi:** Grup üyeleri **proje ekibi kurmak isterse**, **Proje ve Yarışma Komitesi**'ne başvurarak resmi proje sürecine dahil olur.
+
+* **Mevcut Bağımsız Gruplar:**
+  * Web Ekibi
+  * Yapay Zeka Ekibi
+  * Robotik Ekibi
+  * Oyun Geliştirme Ekibi
+  * Masaüstü Uygulama Ekibi
+  * Mobil Uygulama Ekibi
 
 
 
