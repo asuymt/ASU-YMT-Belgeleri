@@ -1,4 +1,4 @@
-# ASÜ-YMT Organizasyon Şeması 
+# ASÜ-YMT ORGANİZASYON ŞEMASI
 
 Ekiplerin / Grupların Yapısı:
 - Ekipler / Gruplar
