@@ -6,7 +6,7 @@ Ekiplerin / Grupların Yapısı:
     - Aktif Üyeler
     - Pasif Üyeler
 
-<br><br>
+<br>
 
 - YÖNETİM KURULU
   - Çekirdek YK
