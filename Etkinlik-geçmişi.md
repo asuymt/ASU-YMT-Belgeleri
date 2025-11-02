@@ -22,6 +22,8 @@
 
 ## DÜZENLENİCEK
 
+- **03.11.2025** : Yapay Zeka & Makine Öğrenmesi İlgi Grubu Buluşması - Müh. Fak. Kantini (15:00-15:30)
+- **04.11.2025** : Robotik & Gömülü Sistemler İlgi Grubu Buluşması - Müh. Fak. Kantini (17:00-17:30)
 - **.**.2025 : Piknik etkinliği...
 
 <br>
