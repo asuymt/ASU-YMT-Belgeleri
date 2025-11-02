@@ -8,6 +8,7 @@
 - 08.10.2025 : WhatsApp grubu alımları açıldı.
 - 08.10.2025 : İnstagram sayfası açıldı.
 - 10.10.2025 : GitHub hesabı açıldı.
+- 27.10.2025 : Organizasyon yapısı ve görev dağılımı belirlendi.
 
 <br>
 
@@ -22,8 +23,9 @@
 
 ## DÜZENLENİCEK
 
-- **03.11.2025** : Yapay Zeka & Makine Öğrenmesi İlgi Grubu Buluşması - Müh. Fak. Kantini (15:00-15:30)
-- **04.11.2025** : Robotik & Gömülü Sistemler İlgi Grubu Buluşması - Müh. Fak. Kantini (17:00-17:30)
+- **03.11.2025** : Yapay Zeka & Makine Öğrenmesi İlgi Grubu Buluşması - Müh. Fak. Kantini
+- **04.11.2025** : Robotik & Gömülü Sistemler İlgi Grubu Buluşması - Müh. Fak. Kantini
+- **05.11.2025** : GitHub & Web Publishing Atölyesi - Müh. Fak. Bilgisayar Lab.
 - **.**.2025 : Piknik etkinliği...
 
 <br>

@@ -1,5 +1,7 @@
 # ASÜ-YMT ORGANİZASYON ŞEMASI
 
+> Yayınlandı : 27.10.2025
+
 Ekiplerin / Grupların Yapısı:
 - Ekipler / Gruplar
   - Ekip Lideri
