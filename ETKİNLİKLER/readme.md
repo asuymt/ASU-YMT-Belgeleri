@@ -10,9 +10,10 @@ Bu klasördeki dosyalar şu şekilde organize edilmiştir:
 
 ### 📄 Ana Dosyalar:
 - **`README.md`** - Bu dosya, klasör hakkında genel bilgi
-- **`Etkinlik-geçmişi.md`** - Tüm etkinliklerin kronolojik özet listesi
+- **`_Etkinlik-geçmişi.md`** - Tüm etkinliklerin kronolojik özet listesi
 
 <br>
+
 
 ### 📋 Etkinlik Dosyaları:
 

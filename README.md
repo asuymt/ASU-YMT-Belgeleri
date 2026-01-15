@@ -20,15 +20,17 @@ Topluluk belgeleri, etkinlikleri ve projeleri hakkında bilgi bulabilirsiniz.
 
 ## ETKİNLİK GEÇMİŞİ
 
-**Etkinlik geçmişine** [**Etkinlik-geçmişi.md**](Etkinlik-geçmişi.md) dosyasından ulaşabilirsiniz.
+**Etkinlik geçmişine** [**ETKİNLİKLER/_Etkinlik-geçmişi.md**](ETKİNLİKLER/_Etkinlik-geçmişi.md) dosyasından ulaşabilirsiniz.
 
 <br>
 
 ## İLETİŞİM
 
+Website: [asuymt.com](https://asuymt.com)
+
 İnstagram: [**@asuymt**](https://www.instagram.com/asuymt/)
 
 İletişim Formu: [**İletişim Formu**](https://docs.google.com/forms/d/e/1FAIpQLSeDyote8VfnBMlMlrnJusew6Kq87pnSUnjHpDiBKcGrfz54PQ/viewform?usp=dialog)
 
-Üyelik Başvurusu: [**Topluluk Üye Başvuru Formu**](https://docs.google.com/forms/d/e/1FAIpQLSedMaZUhav1-ixgucym5YZ_5IPv5c4rR3imsrHbUSCjeA5Yuw/viewform)
+Üyelik Başvurusu: [**Topluluk Üye Başvuru Formu**](https://docs.google.com/forms/d/e/1FAIpQLSd2BhXusrtSe-jeLRr7kTVk4Ooup7tXWWU5kiow8sU57-O37w/viewform)
 

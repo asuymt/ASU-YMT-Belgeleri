@@ -28,15 +28,3 @@
 - **05.11.2025** : GitHub & Web Publishing Atölyesi - Müh. Fak. Bilgisayar Lab.
 - **.**.2025 : Piknik etkinliği...
 
-<br>
-
-## PLANLANAN
-
-- **.**.2026 : Bahar Şenlikleri etkinliğinde stant ...
-
-
-<br>
-
-## İPTAL EDİLEN / ASKIYA ALINAN
-
-- **.11.2025 : *** Üniversitesi Yapay zeka etkinliğine katılım... Sınav dönemi nedeniyle.
