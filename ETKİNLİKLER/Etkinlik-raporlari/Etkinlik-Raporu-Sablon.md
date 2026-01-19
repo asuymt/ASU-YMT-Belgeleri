@@ -45,7 +45,7 @@
 |---|---|
 | Katılımcı Sayısı | [Sayı] |
 | Katılımcı Profili | [1. sınıf / 2. sınıf / farklı bölümler / dış katılım vb.] |
-| Katılım Şekli | [Açık / kayıtlı / davetli] |
+| Katılım Şekli | [] |
 
 ---
 

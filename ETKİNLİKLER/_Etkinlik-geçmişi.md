@@ -14,17 +14,8 @@
 
 ## ETKİNLİKLER
 
+- 07.10.2025 : Sunum: ASÜ Müh. Fak. Yazılım Müh. 2. sınıf
+- 08.10.2025 : Sunum: ASÜ Müh. Fak. Yazılım Müh. 1. sınıf
 - 13.10.2025 : ASÜ Müh. Fak. Konferans Salonunda üyelerle ilk buluşma yapıldı. 40+ katılım.
-- 15.10.2025 : ASÜ İğde Festivali (15-16 Ekim) etkinliğinde stant açıldı. 
-- 17.10.2025 : Kahvaltı ve at binme etkinliği düzenlendi. 40 katılım.
-
-
-<br>
-
-## DÜZENLENİCEK
-
-- **03.11.2025** : Yapay Zeka & Makine Öğrenmesi İlgi Grubu Buluşması - Müh. Fak. Kantini
-- **04.11.2025** : Robotik & Gömülü Sistemler İlgi Grubu Buluşması - Müh. Fak. Kantini
-- **05.11.2025** : GitHub & Web Publishing Atölyesi - Müh. Fak. Bilgisayar Lab.
-- **.**.2025 : Piknik etkinliği...
-
+- 15.10.2025 : ASÜ İğde Festivali (15-16 Ekim) etkinliğinde stant açıldı.
+- 17.10.2025 : Kahvaltı ve at binme etkinliği düzenlendi. 40+ katılım.
