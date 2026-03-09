@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CODEBASE #2 Story</title>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@700;900&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      background: #111;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+    }
+
+    .card {
+      width: 1080px;
+      height: 1920px;
+      background: #000;
+      position: relative;
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+
+    .bg {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 50% 0%, #0a1a2e 0%, #000 60%);
+    }
+
+    .grid-lines {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(0, 200, 255, 0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 200, 255, 0.04) 1px, transparent 1px);
+      background-size: 60px 60px;
+    }
+
+    .orb1 {
+      position: absolute;
+      width: 700px;
+      height: 700px;
+      top: -200px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: radial-gradient(circle, rgba(0, 180, 255, 0.12) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .orb2 {
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      bottom: 200px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: radial-gradient(circle, rgba(0, 255, 180, 0.08) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .scanlines {
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(0deg, transparent, transparent 3px,
+          rgba(0, 0, 0, 0.12) 3px, rgba(0, 0, 0, 0.12) 4px);
+      pointer-events: none;
+      z-index: 5;
+    }
+
+    .corner {
+      position: absolute;
+      width: 48px;
+      height: 48px;
+      z-index: 20;
+    }
+
+    .corner-tl {
+      top: 36px;
+      left: 36px;
+      border-top: 2px solid rgba(0, 200, 255, 0.5);
+      border-left: 2px solid rgba(0, 200, 255, 0.5);
+    }
+
+    .corner-tr {
+      top: 36px;
+      right: 36px;
+      border-top: 2px solid rgba(0, 200, 255, 0.5);
+      border-right: 2px solid rgba(0, 200, 255, 0.5);
+    }
+
+    .corner-bl {
+      bottom: 36px;
+      left: 36px;
+      border-bottom: 2px solid rgba(0, 200, 255, 0.5);
+      border-left: 2px solid rgba(0, 200, 255, 0.5);
+    }
+
+    .corner-br {
+      bottom: 36px;
+      right: 36px;
+      border-bottom: 2px solid rgba(0, 200, 255, 0.5);
+      border-right: 2px solid rgba(0, 200, 255, 0.5);
+    }
+
+    .content {
+      position: relative;
+      z-index: 10;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 90px 80px 80px;
+    }
+
+    .top-bar {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 55px;
+    }
+
+    .series-badge {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 29px;
+      color: #00c8ff;
+      letter-spacing: 4px;
+      border: 1px solid rgba(0, 200, 255, 0.3);
+      padding: 12px 26px;
+      background: rgba(0, 200, 255, 0.05);
+      white-space: nowrap;
+    }
+
+    .date-badge {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 29px;
+      color: rgba(255, 255, 255, 0.45);
+      letter-spacing: 3px;
+      white-space: nowrap;
+    }
+
+    .logo-wrap {
+      position: relative;
+      margin-bottom: 48px;
+    }
+
+    .logo-ring {
+      position: absolute;
+      inset: -20px;
+      border: 1px solid rgba(0, 200, 255, 0.2);
+      border-radius: 50%;
+      animation: spin 20s linear infinite;
+    }
+
+    .logo-ring::before {
+      content: '';
+      position: absolute;
+      top: -4px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 8px;
+      height: 8px;
+      background: #00c8ff;
+      border-radius: 50%;
+      box-shadow: 0 0 14px #00c8ff;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .logo-img {
+      width: 210px;
+      height: 210px;
+      border-radius: 50%;
+      display: block;
+    }
+
+    .main-title {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 132px;
+      font-weight: 900;
+      line-height: 1;
+      text-align: center;
+      color: #fff;
+      letter-spacing: -2px;
+      text-shadow: 0 0 50px rgba(0, 200, 255, 0.4);
+      margin-bottom: 10px;
+      white-space: nowrap;
+    }
+
+    .main-title span {
+      color: #00c8ff;
+    }
+
+    .episode-tag {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 37px;
+      color: #00c8ff;
+      letter-spacing: 10px;
+      margin-bottom: 22px;
+    }
+
+    .subtitle {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 51px;
+      font-weight: 600;
+      color: rgba(255, 255, 255, 0.65);
+      text-align: center;
+      letter-spacing: 3px;
+      margin-bottom: 10px;
+      white-space: nowrap;
+    }
+
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(0, 200, 255, 0.5), transparent);
+      margin-bottom: 46px;
+    }
+
+    .sessions {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      margin-bottom: 44px;
+    }
+
+    .session {
+      border: 1px solid rgba(0, 200, 255, 0.15);
+      background: rgba(0, 200, 255, 0.03);
+      padding: 32px 38px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .session::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 4px;
+      background: linear-gradient(180deg, #00c8ff, #00ff9d);
+    }
+
+    .session-time {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 28px;
+      color: #00c8ff;
+      letter-spacing: 3px;
+      margin-bottom: 10px;
+    }
+
+    .session-title {
+      font-size: 54px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+      line-height: 1.2;
+    }
+
+    .session-desc {
+      font-size: 40px;
+      color: rgba(255, 255, 255, 0.45);
+      line-height: 1.4;
+    }
+
+    .info-row {
+      width: 100%;
+      display: flex;
+      margin-bottom: 50px;
+      border: 1px solid rgba(0, 200, 255, 0.15);
+      overflow: hidden;
+    }
+
+    .info-item {
+      flex: 1;
+      padding: 28px 10px;
+      text-align: center;
+      background: rgba(0, 200, 255, 0.03);
+      border-right: 1px solid rgba(0, 200, 255, 0.1);
+    }
+
+    .info-item:last-child {
+      border-right: none;
+    }
+
+    .info-icon {
+      font-size: 42px;
+      margin-bottom: 8px;
+      display: block;
+    }
+
+    .info-label {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 23px;
+      color: rgba(255, 255, 255, 0.3);
+      letter-spacing: 2px;
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .info-value {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: #fff;
+      display: block;
+      line-height: 1.25;
+    }
+
+    .bottom-section {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+    }
+
+    .community-name {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 32px;
+      color: rgba(255, 255, 255, 0.25);
+      letter-spacing: 5px;
+    }
+
+    .website {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 35px;
+      color: #00c8ff;
+      letter-spacing: 2px;
+      text-shadow: 0 0 20px rgba(0, 200, 255, 0.5);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <div class="bg"></div>
+    <div class="grid-lines"></div>
+    <div class="orb1"></div>
+    <div class="orb2"></div>
+    <div class="scanlines"></div>
+    <div class="corner corner-tl"></div>
+    <div class="corner corner-tr"></div>
+    <div class="corner corner-bl"></div>
+    <div class="corner corner-br"></div>
+    <div class="content">
+      <div class="top-bar">
+        <div class="series-badge">HAFTALIK SERİ</div>
+        <div class="date-badge">06.03.2026</div>
+      </div>
+      <div class="logo-wrap">
+        <div class="logo-ring"></div>
+        <img class="logo-img" src="../ASÜ-YMT-1.png" alt="ASÜ-YMT Logo">
+      </div>
+      <div class="main-title">CODE<span>BASE</span></div>
+      <div class="episode-tag">// #02</div>
+      <div class="subtitle">DOCKER</div>
+      <div class="sessions">
+        <div class="session">
+          <div class="session-time">14:30 — 15:30</div>
+          <div class="session-title">🗞️ 1. OTURUM</div>
+          <div class="session-desc">· Haftalık yazılım &amp; bilişim gelişmeleri <br> · Docker nedir? <br> · Docker kurulumu</div>
+        </div>
+        <div class="session">
+          <div class="session-time">15:30 — 16:30</div>
+          <div class="session-title">🐳 2. OTURUM</div>
+          <div class="session-desc">· Docker arayüzü &amp; CLI <br> · Docker mini uygulama <br> · Kahoot</div>
+        </div>
+      </div>
+      <div class="info-row">
+        <div class="info-item">
+          <span class="info-icon">📅</span>
+          <span class="info-label">TARİH</span>
+          <span class="info-value">6 Mart<br>Cuma</span>
+        </div>
+        <div class="info-item">
+          <span class="info-icon">⏰</span>
+          <span class="info-label">SAAT</span>
+          <span class="info-value">14:30–<br>16:30</span>
+        </div>
+        <div class="info-item">
+          <span class="info-icon">📍</span>
+          <span class="info-label">KONUM</span>
+          <span class="info-value">Müh. Fak.<br>B206</span>
+        </div>
+      </div>
+      <div class="bottom-section">
+        <div class="community-name">ASÜ-YMT</div>
+        <div class="website">asuymt.com</div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

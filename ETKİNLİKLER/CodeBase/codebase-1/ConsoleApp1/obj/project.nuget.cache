@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKan2490sbs=",
+  "success": true,
+  "projectFilePath": "/mnt/DiskD/Topluluk/ASU-YMT-Belgeleri/ETKİNLİKLER/CodeBase/codebase-1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/mfmx/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
