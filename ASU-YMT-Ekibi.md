@@ -53,7 +53,7 @@
 
 ### C.1) Bahar Şenliği Ekibi
 
-- ?
+- Sude Nas ÖZKUL
 
 ## D) PROJE KOMİTESİ
 
