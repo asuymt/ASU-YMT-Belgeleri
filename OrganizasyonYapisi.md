@@ -130,6 +130,7 @@ Başkan Yardımcısı: Hakan ULUÇAR
 ### D) ETKİNLİKLER KOMİTESİ
 
 - Ayşe Kübra KALAYCI
+- Sude Nas ÖZKUL
 - Yaren
 - Berfin
 - Hümeyra
@@ -139,10 +140,6 @@ Başkan Yardımcısı: Hakan ULUÇAR
 - Z. Sude
 - Belen
 - Sıla İNCİ
-
-#### D.1) Bahar Şenliği Ekibi
-
-- Sude Nas ÖZKUL
 
 <br><br>
 

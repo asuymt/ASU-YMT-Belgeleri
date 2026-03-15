@@ -14,10 +14,6 @@
 - 08.10.2025 - Topluluk İnstagram hesabı açıldı
 - 10.10.2025 - Topluluk GitHub hesabı açıldı
 
-- Website: [https://asuymt.com](https://asuymt.com)
-- İnstagram: [@asuymt](https://www.instagram.com/asuymt/)
-- GitHub: [@asuymt](https://github.com/asuymt)
-- LinkedIn: [ASÜ-YMT](https://www.linkedin.com/company/asuymt/)
 
 <hr><br><br>
 
@@ -120,7 +116,7 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 - Bu yapı; yönetim ve karar alma süreçlerini, etkin iletişim ve işbirliğini kolaylaştırmayı amaçlar.
 - Süreç içerisinde yapı ve rollerin esnekliği, topluluğun dinamiklerine göre güncellenicektir.
 
-bkz. [Organizasyon YAPISI](OrganizasyonYapisi.md)
+bkz. [Organizasyon YAPISI](OrganizasyonYapisi)
 
 
 

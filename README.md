@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="LOGO/Logo-white-bg-black.png" alt="ASÜ-YMT Logo" width="180" style="border-radius: 50%;" />
+	<img src="LOGO/Logo-white-bg-black-circle.png" alt="ASÜ-YMT Logo" width="180" />
 </p>
 
 <h1 align="center" style="width: 100%;">ASÜ-YMT BELGELERİ</h1>
@@ -15,9 +15,9 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 ## Hızlı Bağlantılar
 
 <div style="display: flex; flex-direction: row;gap: 10px;">
-    <a href="Topluluk-hakkinda.md" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Topluluk Hakkında</a>
-    <a href="OrganizasyonYapisi.md" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Organizasyon Yapısı</a>
-    <a href="ETKİNLİKLER/readme.md" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Etkinlikler</a>
+    <a href="Topluluk-hakkinda" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Topluluk Hakkında</a>
+    <a href="OrganizasyonYapisi" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Organizasyon Yapısı</a>
+    <a href="ETKİNLİKLER/readme" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Etkinlikler</a>
 </div>
 
 <br>
