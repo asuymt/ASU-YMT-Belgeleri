@@ -116,7 +116,7 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 - Bu yapı; yönetim ve karar alma süreçlerini, etkin iletişim ve işbirliğini kolaylaştırmayı amaçlar.
 - Süreç içerisinde yapı ve rollerin esnekliği, topluluğun dinamiklerine göre güncellenicektir.
 
-bkz. [Organizasyon YAPISI](OrganizasyonYapisi)
+bkz. [Organizasyon YAPISI](OrganizasyonYapisi.md)
 
 
 
