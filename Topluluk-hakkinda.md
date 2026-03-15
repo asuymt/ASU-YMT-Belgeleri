@@ -14,8 +14,10 @@
 - 08.10.2025 - Topluluk İnstagram hesabı açıldı
 - 10.10.2025 - Topluluk GitHub hesabı açıldı
 
+- Website: [https://asuymt.com](https://asuymt.com)
 - İnstagram: [@asuymt](https://www.instagram.com/asuymt/)
 - GitHub: [@asuymt](https://github.com/asuymt)
+- LinkedIn: [ASÜ-YMT](https://www.linkedin.com/company/asuymt/)
 
 <hr><br><br>
 

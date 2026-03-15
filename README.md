@@ -1,9 +1,11 @@
+<html style="background-color: #000; color: #fff; font-family: Arial, sans-serif;">
+
 <p align="center">
 	<img src="LOGO/cover/Kapak-1_6.png" alt="ASÜ-YMT Kapak" width="900" />
 </p>
 
 <p align="center">
-	<img src="LOGO/asuymt_logox1000.png" alt="ASÜ-YMT Logo" width="180" />
+	<img src="LOGO/Logo-white-bg-black.png" alt="ASÜ-YMT Logo" width="180" style="border-radius: 50%;" />
 </p>
 
 # <div align="center">ASÜ-YMT BELGELERİ</div>
