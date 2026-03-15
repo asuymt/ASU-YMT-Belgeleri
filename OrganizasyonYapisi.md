@@ -3,6 +3,8 @@
 > Yayınlandı: 27.10.2025
 > 15.03.2026: Organizasyon yapısı güncellendi
 
+<br>
+
 ## ORGANİZASYON ŞEMASI
 
 - Yönetim Kurulu
@@ -46,6 +48,8 @@
   - Masaüstü Uygulama Grubu
   - Mobil Uygulama Grubu
 
+<br><br>
+
 
 ### A) YÖNETİM KURULU ÜYELERİ
 
@@ -62,6 +66,8 @@ Başkan Yardımcısı: Hakan ULUÇAR
 | Elif YAĞIZ         | Eğitim Kom. Denetimi           |
 | Kerim Efe PEHLİVAN | Çekirdek Yönetim Adayı         |
 
+<br>
+
 #### A.2) OPERASYONEL YÖNETİM KURULU (OYK)
 
 | Operasyonel Yönetim | Görev Tanımı               |
@@ -72,6 +78,8 @@ Başkan Yardımcısı: Hakan ULUÇAR
 | Mert Çelik          | Etkinlikler Ekibi Denetimi |
 | Ömür Faruk DURU     | Denetleme Kurulu Başkanı   |
 
+<br>
+
 #### A.3) Genel Sekreterlik ve İdari İşler
 
 | Görev Tanımı             | Sorumlu Kişi         |
@@ -79,6 +87,8 @@ Başkan Yardımcısı: Hakan ULUÇAR
 | İdari İşler ve Belgeleme | Süveyda Şeyma Mercan |
 | Sekreter                 | Buse Yağmur ÖZDİL    |
 | Sayman                   | Elif YAĞIZ           |
+
+<br>
 
 
 ### B) DENETLEME KURULU (DK)
@@ -88,6 +98,8 @@ Başkan Yardımcısı: Hakan ULUÇAR
 | Ömür Faruk DURU  | Denetleme Kurulu Başkanı |
 | Emir FETOLMAZ    | Denetleme Kurulu Üyesi   |
 | Burak ARIKAN     | Denetleme Kurulu Üyesi   |
+
+<br><br>
 
 
 ### C) HALKA İLİŞKİLER (PR) KOMİTESİ
@@ -111,6 +123,9 @@ Başkan Yardımcısı: Hakan ULUÇAR
 - Burak ARIKAN (OYK Üyesi)
 
 
+<br><br>
+
+
 ### D) ETKİNLİKLER KOMİTESİ
 
 - Ayşe Kübra KALAYCI
@@ -127,6 +142,9 @@ Başkan Yardımcısı: Hakan ULUÇAR
 #### D.1) Bahar Şenliği Ekibi
 
 - Sude Nas ÖZKUL
+
+<br><br>
+
 
 ### E) PROJE KOMİTESİ
 
