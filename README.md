@@ -1,5 +1,3 @@
-<html style="background-color: #000; color: #fff; font-family: Arial, sans-serif;">
-
 <p align="center">
 	<img src="LOGO/cover/Kapak-1_6.png" alt="ASÜ-YMT Kapak" width="900" />
 </p>

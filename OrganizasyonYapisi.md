@@ -53,7 +53,7 @@
 
 ### A) YÖNETİM KURULU ÜYELERİ
 
-Topluluk Başkanı: Mehmet Akif AKKOÇ
+Topluluk Başkanı: Mehmet Akif AKKOÇ <br>
 Başkan Yardımcısı: Hakan ULUÇAR
 
 #### A.1) ÇEKİRDEK YÖNETİM KURULU (ÇYK)
