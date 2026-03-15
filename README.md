@@ -17,7 +17,7 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 <div style="display: flex; flex-direction: row;gap: 10px;">
     <a href="Topluluk-hakkinda" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Topluluk Hakkında</a>
     <a href="OrganizasyonYapisi" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Organizasyon Yapısı</a>
-    <a href="ETKİNLİKLER/readme" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Etkinlikler</a>
+    <a href="ETKİNLİKLER/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Etkinlikler</a>
 </div>
 
 <br>
