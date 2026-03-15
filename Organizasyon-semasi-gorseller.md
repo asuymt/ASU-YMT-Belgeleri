@@ -1,6 +1,6 @@
 # ASÜ-YMT ORGANİZASYON ŞEMASI GÖRSELLERİ
 
-> Detaylı belgeler için [ASÜ-YMT Organizasyon Şeması](Organizasyon-semasi.md) dosyasına bakabilirsiniz.
+> Detaylı belgeler için [ASÜ-YMT Organizasyon Şeması](OrganizasyonYapisi.md) dosyasına bakabilirsiniz.
 
 ## Organizasyon Şeması Görselleri
 

@@ -1,6 +1,6 @@
 # ASÜ-YMT ORGANİZASYON ŞEMASI
 
-> Yayınlandı: 27.10.2025
+> Yayınlandı: 27.10.2025 <br>
 > 15.03.2026: Organizasyon yapısı güncellendi
 
 <br>
@@ -25,20 +25,21 @@
   - DK Üyeleri
 
 - Komiteler
+  - Etkinlik ve Sosyal İşler Komitesi
+    - Direktör
+      - Etkinlik Ekipleri
   - Halka İlişkiler (PR) Komitesi
     - Direktör
     - Sosyal Medya Ekibi
     - Tasarım Ekibi
     - Web ve GitHub PR Ekibi
     - Ekip Üyeleri
-  - Etkinlik ve Sosyal İşler Komitesi
-    - Direktör
-      - Etkinlik Ekipleri
   - Proje ve Yarışma Komitesi
     - Direktör
       - Proje Ekipleri
   - Eğitim Komitesi
-    - Eğitim Direktörü
+    - Direktör
+      - Ekip Üyeleri
 
 - Bağımsız Gruplar
   - Web Grubu
@@ -230,31 +231,31 @@ Başkan Yardımcısı: Hakan ULUÇAR
 - Pelin PINARBAŞI:
   - Sosyal Medya Sorumlusu (PR Komitesi)
 
-| ÜYE ADI             | ROLÜ                         |
-| ------------------- | ---------------------------- |
-| Gizem               | Sosyal Medya Ekibi Üyesi     |
-| Ayşenaz             | Sosyal Medya Ekibi Üyesi     |
-| Ali Arda AYDIN      | Tasarım Ekibi Üyesi          |
-| Asude Tunay TORUN   | Tasarım Ekibi Üyesi          |
-|                     |                              |
-| Ayşe Kübra KALAYCI  | Etkinlikler Komitesi Üyesi   |
-| Yaren               | Etkinlikler Komitesi Üyesi   |
-| Berfin              | Etkinlikler Komitesi Üyesi   |
-| Hümeyra             | Etkinlikler Komitesi Üyesi   |
-| Yiğit               | Etkinlikler Komitesi Üyesi   |
-| Caner USLU          | Etkinlikler Komitesi Üyesi   |
-| Muzaffer Arda ÜNSAL | Etkinlikler Komitesi Üyesi   |
-| Z. Sude             | Etkinlikler Komitesi Üyesi   |
-| Belen               | Etkinlikler Komitesi Üyesi   |
-| Sıla İNCİ           | Etkinlikler Komitesi Üyesi   |
-| Sude Nas ÖZKUL      | Bahar Şenliği Ekibi Üyesi    |
-|                     |                              |
-| Zehra AKDENİZ       | Proje Komitesi: Proje Takibi |
-| Emin                | Web Sitesi Projesi Üyesi     |
-| Samet               | Üye Takip Projesi Üyesi      |
-|                     |                              |
-| Rabia               | Belirsiz (netleştirilecek)   |
-| Batuhan             | Belirsiz (netleştirilecek)   |
+| ÜYE ADI             | ROLÜ                     |
+| ------------------- | ------------------------ |
+| Gizem               | Sosyal Medya Ekibi Üyesi |
+| Ayşenaz             | Sosyal Medya Ekibi Üyesi |
+| Ali Arda AYDIN      | Tasarım Ekibi Üyesi      |
+| Asude Tunay TORUN   | Tasarım Ekibi Üyesi      |
+|                     |                          |
+| Ayşe Kübra KALAYCI  | Etkinlikler Ekibi Üyesi  |
+| Yaren               | Etkinlikler Ekibi Üyesi  |
+| Berfin              | Etkinlikler Ekibi Üyesi  |
+| Hümeyra             | Etkinlikler Ekibi Üyesi  |
+| Yiğit               | Etkinlikler Ekibi Üyesi  |
+| Caner USLU          | Etkinlikler Ekibi Üyesi  |
+| Muzaffer Arda ÜNSAL | Etkinlikler Ekibi Üyesi  |
+| Z. Sude             | Etkinlikler Ekibi Üyesi  |
+| Belen               | Etkinlikler Ekibi Üyesi  |
+| Sıla İNCİ           | Etkinlikler Ekibi Üyesi  |
+| Sude Nas ÖZKUL      | Etkinlikler Ekibi Üyesi  |
+|                     |                          |
+| Zehra AKDENİZ       | Proje Ekibi Üyesi        |
+| Emin                | Proje Ekibi Üyesi        |
+| Samet               | Proje Ekibi Üyesi        |
+|                     |                          |
+| Rabia               |                          |
+| Batuhan             |                          |
 
 
 <br><br><br>
