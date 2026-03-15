@@ -8,7 +8,7 @@
 	<img src="LOGO/Logo-white-bg-black.png" alt="ASÜ-YMT Logo" width="180" style="border-radius: 50%;" />
 </p>
 
-# <div align="center">ASÜ-YMT BELGELERİ</div>
+<h1 align="center">ASÜ-YMT BELGELERİ</h1>
 
 ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunumlar ve örnek codebase içerikleri burada tutulur.
 
