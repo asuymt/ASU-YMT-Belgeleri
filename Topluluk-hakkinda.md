@@ -118,43 +118,7 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 - Bu yapı; yönetim ve karar alma süreçlerini, etkin iletişim ve işbirliğini kolaylaştırmayı amaçlar.
 - Süreç içerisinde yapı ve rollerin esnekliği, topluluğun dinamiklerine göre güncellenicektir.
 
-**Organizasyon Şeması:**
-- Yönetim Kurulu
-  - Çekirdek Yönetim Kurulu
-    - Başkan
-    - Başkan Yardımcısı
-    - Sekreter
-    - Sayman
-  - Operasyonel Yönetim Kurulu
-    - Proje Direktörü
-    - Etkinlik Direktörü
-    - Eğitim Direktörü
-    - Sosyal Medya Direktörü
-  - Denetleme Kurulu
-- Komiteler
-  - Proje ve Yarışma Komitesi
-    - Proje Direktörü
-      - Proje Ekipleri
-  - Etkinlik ve Sosyal İşler Komitesi
-    - Etkinlik Direktörü
-      - Etkinlik Ekibi
-  - Eğitim Komitesi
-    - Eğitim Direktörü
-      - Atölye ve Seminer Ekibi
-      - Kaynak Geliştirme Ekibi
-  - Medya ve İletişim Komitesi
-    - Sosyal Medya Direktörü
-      - Sosyal Medya Yönetim Ekibi
-      - Topluluk Web Sitesi Ekibi
-- Bağımsız Gruplar
-  - Web Ekibi
-  - Yapay Zeka Ekibi
-  - Robotik Ekibi
-  - Oyun Geliştirme Ekibi
-  - Masaüstü Uygulama Ekibi
-  - Mobil Uygulama Ekibi
-
-bkz. [Organizasyon-semasi.md](Organizasyon-semasi.md)
+bkz. [Organizasyon YAPISI](OrganizasyonYapisi.md)
 
 
 
