@@ -3,6 +3,8 @@
 //  Konu: Algoritma Mantığı & Kontrol Blokları
 // ============================================================
 
+using System;
+
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Fibonacci.Demo();

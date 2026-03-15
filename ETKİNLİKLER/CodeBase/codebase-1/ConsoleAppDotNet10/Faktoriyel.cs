@@ -5,6 +5,8 @@
 //  Özel durum: 0! = 1
 // ============================================================
 
+using System;
+
 static class Faktoriyel
 {
 
@@ -23,7 +25,7 @@ static class Faktoriyel
         Console.WriteLine();
     }
 
-    
+
     // ----------------------------------------------------------
     // UZUN VERSİYON — For döngüsü, adım adım açıklamalı
     // ----------------------------------------------------------
@@ -61,7 +63,7 @@ static class Faktoriyel
     // ----------------------------------------------------------
     public static long Orta(int n)
     {
-        if (n < 0)  throw new ArgumentException("Negatif sayı girilemez.");
+        if (n < 0) throw new ArgumentException("Negatif sayı girilemez.");
         if (n == 0) return 1;               // base case
         return n * Orta(n - 1);             // özyinelemeli çağrı
     }
@@ -71,5 +73,5 @@ static class Faktoriyel
     // ----------------------------------------------------------
     public static long Kisa(int n) => n <= 1 ? 1 : n * Kisa(n - 1);
 
-    
+
 }

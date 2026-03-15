@@ -4,6 +4,8 @@
 //  if-else zinciri yazabilirsiniz ama switch daha okunabilirdir.
 // ============================================================
 
+using System;
+
 static class SwitchCaseOrnek
 {
     // ----------------------------------------------------------

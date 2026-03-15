@@ -4,6 +4,8 @@
 //  Her sayı, kendisinden önceki iki sayının toplamıdır.
 // ============================================================
 
+using System;
+
 static class Fibonacci
 {
 

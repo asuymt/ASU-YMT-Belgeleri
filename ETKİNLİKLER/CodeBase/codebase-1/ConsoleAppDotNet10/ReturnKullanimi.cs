@@ -9,6 +9,9 @@
 //  if-else bloklarından kaçınılır ve kod okunabilir olur.
 // ============================================================
 
+using System;
+using System.Linq;
+
 static class ReturnKullanimi
 {
     // ----------------------------------------------------------
