@@ -23,8 +23,8 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 ## İletişim ve Bağlantılar
 
 <div style="display: flex; flex-direction: row;gap: 10px;">
-    <a href="https://asuymt.com/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Website: asuymt.com</a>
-    <a href="https://www.instagram.com/asuymt/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Instagram: @asuymt</a>
+    <a href="https://asuymt.com/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Website: asuymt.com</a> | 
+    <a href="https://www.instagram.com/asuymt/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Instagram: @asuymt</a> | 
     <a href="https://www.linkedin.com/company/asuymt/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">LinkedIn: ASÜ-YMT</a>
 </div>
 
@@ -33,6 +33,6 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 ## Formlar
 
 <div style="display: flex; flex-direction: row;gap: 10px;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDyote8VfnBMlMlrnJusew6Kq87pnSUnjHpDiBKcGrfz54PQ/viewform?usp=dialog" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">İletişim Formu</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDyote8VfnBMlMlrnJusew6Kq87pnSUnjHpDiBKcGrfz54PQ/viewform?usp=dialog" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">İletişim Formu</a> | 
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2BhXusrtSe-jeLRr7kTVk4Ooup7tXWWU5kiow8sU57-O37w/viewform" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Üyelik Başvurusu</a>
 
