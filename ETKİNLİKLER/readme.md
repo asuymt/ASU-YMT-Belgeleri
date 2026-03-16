@@ -4,7 +4,7 @@ Bu klasör, **Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu**'nun d�
 
 <hr>
 
-> [Etkinlik Geçmişi](_Etkinlik-geçmişi.md)
+> [Etkinlik Geçmişi](Etkinlik-geçmisi.md)
 
 <br>
 
