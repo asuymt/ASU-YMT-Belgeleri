@@ -2,15 +2,9 @@
 
 Bu klasör, **Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu**'nun düzenlediği tüm etkinliklerin detaylı dokümantasyonunu içerir.
 
-<hr><br>
+<hr>
 
-## 📂 KLASÖR YAPISI
-
-Bu klasördeki dosyalar şu şekilde organize edilmiştir:
-
-### 📄 Ana Dosyalar:
-- **`README.md`** - Bu dosya, klasör hakkında genel bilgi
-- **`_Etkinlik-geçmişi.md`** - Tüm etkinliklerin kronolojik özet listesi
+> [Etkinlik Geçmişi](_Etkinlik-geçmişi.md)
 
 <br>
 
