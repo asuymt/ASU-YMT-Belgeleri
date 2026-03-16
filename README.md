@@ -16,7 +16,7 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 
 - [Topluluk Hakkında](Topluluk-hakkinda.md)
 - [Organizasyon Yapısı](OrganizasyonYapisi.md)
-- [Etkinlikler](Etkinlikler.md)
+- [Etkinlikler](Etkinlikler/readme.md)
 
 <br>
 
