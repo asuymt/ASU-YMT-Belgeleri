@@ -7,8 +7,6 @@
 
 ## ORGANİZASYON ŞEMASI
 
-> grafik: [Şema](Organizasyon-Semasi/shema-780-full.png)
-
 - Yönetim Kurulu
   - Çekirdek Yönetim Kurulu
     - Başkan
