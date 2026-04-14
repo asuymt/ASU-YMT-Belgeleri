@@ -17,6 +17,7 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 - [Topluluk Hakkında](Topluluk-hakkinda.md)
 - [Organizasyon Yapısı](OrganizasyonYapisi.md)
 - [Etkinlikler](ETKİNLİKLER/readme.md)
+- [Bilgi-Belge-Public Drive](https://drive.google.com/drive/folders/16QC0HHHCLFOzn_hFLOtWJABrl4YtSP6X)
 
 <br>
 
