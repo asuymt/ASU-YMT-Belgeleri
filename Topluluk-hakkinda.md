@@ -19,23 +19,34 @@
 
 
 ## İÇİNDEKİLER
-- [1. TOPLULUK HAKKINDA](#1-topluluk-hakkinda)
-  - [1.0 Genel Bakış](#10-genel-bakış)
-  - [1.1 Felsefe](#11-felsefe)
-  - [1.2 Amaç](#12-amaç)
-  - [1.3 Misyon](#13-misyon)
-  - [1.4 Vizyon](#14-vizyon)
-  - [1.5 Hedefler](#15-hedefler)
-  - [1.6 Kuruluş Hikayesi](#16-kuruluş-hikayesi)
-  - [1.7 Faaliyet Alanları](#17-faaliyet-alanları)
-- [2. TOPLULUK ORGANLARI VE YÖNETİM YAPISI](#2-topluluk-organlari-ve-yönetim-yapisi)
-- [3. ÜYELİK İŞLEMLERİ](#3-uyelik-islemleri)
-  - [3.1 Üyelik Şartları](#31-uyelik-sartlari)
-  - [3.2 Üyeliğe Kabul, Ayrılma ve Çıkarılma](#32-uyelige-kabul-ayrilma-ve-cikarilma)
-  - [3.3 Üyelerin Hak ve Sorumlulukları](#33-uyelerin-hak-ve-sorumluluklari)
-- [4. DEFTERLER VE EVRAKLAR](#4-defterler-ve-evraklar)
-- [5. DİSİPLİN HÜKÜMLERİ](#5-disiplin-hukumleri)
-- [6. RESMİ İLETİŞİM, TEMSİL VE BEYANAT YETKİSİ](#6-resmi-iletisim-temsil-ve-beyanat-yetkisi)
+- [AKSARAY ÜNİVERSİTESİ YAZILIM MÜHENDİSLİĞİ TOPLULUĞU](#aksaray-üni̇versi̇tesi̇-yazilim-mühendi̇sli̇ği̇-topluluğu)
+  - [GEÇMİŞ](#geçmi̇ş)
+  - [İÇİNDEKİLER](#i̇çi̇ndeki̇ler)
+  - [1. TOPLULUK HAKKINDA](#1-topluluk-hakkinda)
+    - [1.0 Genel Bakış](#10-genel-bakış)
+    - [1.1 Felsefe](#11-felsefe)
+    - [1.2 Amaç](#12-amaç)
+    - [1.3 Misyon](#13-misyon)
+    - [1.4 Vizyon](#14-vizyon)
+    - [1.5 Hedefler](#15-hedefler)
+    - [1.6 Kuruluş Hikayesi](#16-kuruluş-hikayesi)
+    - [1.7 Faaliyet Alanları](#17-faaliyet-alanları)
+  - [2. TOPLULUK ORGANLARI VE YÖNETİM YAPISI](#2-topluluk-organlari-ve-yöneti̇m-yapisi)
+  - [3. ÜYELİK İŞLEMLERİ](#3-üyeli̇k-i̇şlemleri̇)
+    - [3.1 Üyelik Şartları](#31-üyelik-şartları)
+    - [3.2 Üyeliğe Kabul, Ayrılma ve Çıkarılma](#32-üyeliğe-kabul-ayrılma-ve-çıkarılma)
+    - [3.3 Üyelerin Hak ve Sorumlulukları](#33-üyelerin-hak-ve-sorumlulukları)
+  - [4. DEFTERLER VE EVRAKLAR](#4-defterler-ve-evraklar)
+    - [4.1 Üye Kayıt Defteri](#41-üye-kayıt-defteri)
+    - [4.2 Karar Defteri](#42-karar-defteri)
+    - [4.3 Etkinlik Dosyası](#43-etkinlik-dosyası)
+    - [4.4 Muhasebe Defteri](#44-muhasebe-defteri)
+    - [4.5 Demirbaş Eşya Defteri](#45-demirbaş-eşya-defteri)
+  - [5. DİSİPLİN HÜKÜMLERİ](#5-di̇si̇pli̇n-hükümleri̇)
+    - [5.1 Disiplin Suçu Sayılan Fiil ve Haller](#51-disiplin-suçu-sayılan-fiil-ve-haller)
+    - [5.2 Disiplin Süreci ve Savunma Hakkı](#52-disiplin-süreci-ve-savunma-hakkı)
+    - [5.3 Disiplin Cezaları](#53-disiplin-cezaları)
+  - [6. RESMİ İLETİŞİM, TEMSİL VE BEYANAT YETKİSİ](#6-resmi̇-i̇leti̇şi̇m-temsi̇l-ve-beyanat-yetki̇si̇)
 
 
 
@@ -46,14 +57,15 @@
 
 ### 1.0 Genel Bakış
 
-|                |                                                               |
-| -------------- | ------------------------------------------------------------- |
-| Topluluk Adı   | Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu           |
-| Alternatif Ad  | ASÜ Yazılım Mühendisliği Topluluğu                            |
-| Kısa Ad        | ASÜ-YMT                                                       |
-| Merkez         | Mühendislik Fakültesi, Aksaray Üniversitesi, Aksaray, Türkiye |
-| Kuruluş Tarihi | Ekim 2025                                                     |
-|                |                                                               |
+|                |                                                     |
+| -------------- | --------------------------------------------------- |
+| Topluluk Adı   | Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu |
+| Alternatif Ad  | ASÜ Yazılım Mühendisliği Topluluğu                  |
+| Kısa Ad        | ASÜ-YMT                                             |
+| Konum          | Mühendislik Fakültesi, Aksaray Üniversitesi         |
+| Kuruluş Tarihi | Ekim 2025                                           |
+| Web Sitesi     | [https://asuymt.com](https://asuymt.com)            |
+|                |                                                     |
 
 
 
