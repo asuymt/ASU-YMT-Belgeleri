@@ -130,7 +130,6 @@ Her komite bir Yönetim Kurulu üyesinin yürütücülüğünde çalışır. Kom
 ### 4.1 İdari İşler ve Belgeleme Komitesi
 Topluluğun kurumsal hafızasını korumak, resmi dilekçe ve izin süreçlerini yürütmek, karar defterini tutmak ve tüm dijital/fiziksel arşiv düzenini sağlamakla sorumludur.
 
-* **Görevler:**
   * **Standart Dilekçe Şablonları:** SKS, Dekanlık ve Bölüm Başkanlığı için salon tahsisi, izin, afiş asma ve gezi dilekçe taslaklarını hazır tutmak.
   * **Karar Defteri Düzeni:** Alınan yönetim kararlarını resmi karar defterine düzenli, okunaklı ve mevzuata uygun şekilde işlemek.
   * **Tutanak ve Yoklama Arşivi:** Toplantı notlarını, etkinlik katılım listelerini dijital sürücüde standart klasörleme ile arşivlemek.
@@ -141,7 +140,6 @@ Topluluğun kurumsal hafızasını korumak, resmi dilekçe ve izin süreçlerini
 ### 4.2 İnsan Kaynakları Komitesi
 Topluluk içi iletişimi, ekip motivasyonunu ve üye takibini yürütmek; yeni üye kazanım süreçlerini ve komite yürütücülerinin halef yetiştirme düzenini koordine etmekle sorumludur.
 
-* **Görevler:**
   * **Çırak Yetiştirme Koordinasyonu:** Yürütücülerin yanlarına alt dönemlerden asistan alarak süreçleri birlikte yürütmesini takip etmek.
   * **Ekip Takip Tablosu:** Ekip üyeleri listesini güncel tutmak; toplantı öncesi katılım ve aktiflik durumunu işlemek.
   * **Emek – Fayda – Ayrıcalık Matrisi:** Üyelerin sorumluluk ve çıktılarını değerlendirerek önceliklerini belirlemek.
@@ -153,7 +151,6 @@ Topluluk içi iletişimi, ekip motivasyonunu ve üye takibini yürütmek; yeni �
 ### 4.3 Dış İlişkiler Komitesi
 Topluluğun üniversite dışı paydaşlar, Teknopark firmaları, teknoloji şirketleri, akademisyenler ve mezunlarla ilişkilerini kurmak; etkinlikler için ayni ve nakdi sponsorluk kaynakları sağlamakla sorumludur.
 
-* **Görevler:**
   * **Ziyaret ve İletişim Listesi:** Teknopark firmaları, akademisyenler ve yerel/ulusal teknoloji şirketlerinin iletişim rehberini oluşturmak.
   * **Görüşme ve Takip:** Potansiyel sponsorlarla temas kurmak, toplantı randevularını almak ve süreci sonuçlandırmak.
   * **Konuşmacı İletişimi:** Etkinliklere davet edilecek sektör profesyonelleri ile resmi davet yazışmalarını yürütmek.
@@ -164,7 +161,6 @@ Topluluğun üniversite dışı paydaşlar, Teknopark firmaları, teknoloji şir
 ### 4.4 Etkinlik ve Organizasyon Komitesi
 Topluluğun tüm etkinliklerinin (seminer, konferans, atölye, sosyal faaliyetler) planlanması ve koordinasyonundan sorumludur. Topluluğun aktif kalmasından ve dinamizmini sürdürmesinden doğrudan sorumludur. Üye katılımını teşvik eden düzenli aktiviteler ve sosyal faaliyetler organize eder. Etkinlik Ekibi'ni yönetir. Hem profesyonel etkinliklerin lojistiğini hem de üye aidiyetini güçlendiren sosyal faaliyetleri planlar ve hayata geçirir.
 
-* **Görevler:**
   * **Akademik Takvim Optimizasyonu:** Vize, final ve tatil haftalarını dikkate alarak etkinlikleri katılımın en yüksek olacağı haftalara planlamak.
   * **Lojistik ve Operasyon:** Salon rezervasyonu, ses/projeksiyon kontrolü, ikram, kayıt masası ve etkinlik akışını koordine etmek.
   * **Etkinlik Listelemesi:** Toplulukta yapabilecek tüm etkinlikleri listelemek ve ilerisi için kaydetmek.
@@ -180,7 +176,6 @@ Topluluğun tüm etkinliklerinin (seminer, konferans, atölye, sosyal faaliyetle
 ### 4.5 Sosyal Medya Komitesi
 Topluluğun marka imajını, profesyonel itibarını ve online görünürlüğünü doğrudan yönetir. Sosyal medya ve web sitesi ekiplerini koordine eder. Tüm dijital içeriklerin (metin, görsel, video) topluluk değerlerine uygun, profesyonel ve kaliteli olmasını sağlar. Topluluk faaliyetlerinin etkili bir şekilde duyurulmasından, dijital platformlardaki etkileşimin artırılmasından ve topluluk imajının korunmasından tam sorumluluk taşır.
 
-* **Görevler:**
   * **Görünüm Yönetimi:** Topluluğun sosyal medya hesaplarını aktif ve profesyonel bir şekilde yönetir.
   * **Şablon Tasarımı:** Hazır Canva/Figma şablonuna bülten veya duyuru metnini yerleştirmek.
   * **İçerik yayın takvimi:** Paylaşım içerik ve tasarımlarını son dakikaya bırakmadan 2 hafta önceden hazır bulundurmak.
@@ -196,7 +191,6 @@ Topluluğun marka imajını, profesyonel itibarını ve online görünürlüğü
 ### 4.6 Proje Komitesi
 Topluluğun amaç ve hedefleri doğrultusunda gerekli projeleri organize eder. Teknofest, hackathon ve ulusal/uluslararası yarışmalara yönelik proje takımlarının kurulmasını, yönetimini ve koordinasyonunu sağlar. Gelen proje fikirlerini değerlendirir, proje ekibi kurmak isteyenleri ve projelere katılmak isteyenleri eşleştirir, ekip arayışındaki kişilerle aktif iletişim kurar. Proje ekiplerinin hedeflerine ulaşması için kaynak planlaması yapar ve YK'ya düzenli ilerleme raporları sunar.
 
-* **Görevler:**
   * **Yarışma Takvimi:** Türkiye'deki açık kaynak yarışmaları ve TEKNOFEST/TÜBİTAK çağrı tarihlerini sürekli araştırmak.
   * **Yarışma Takımları:** TEKNOFEST, TÜBİTAK 2209-A/B ve ulusal hackathonlar için çağrıları taramak, başvuru ekipleri kurmak ve koordine etmek.
   * **Açık Kaynak Projeler:** Topluluk GitHub'ında yürütülecek ortak projeleri belirlemek ve mini ekiplere mentörlük etmek.
@@ -207,7 +201,6 @@ Topluluğun amaç ve hedefleri doğrultusunda gerekli projeleri organize eder. T
 ### 4.7 Web ve Teknik Altyapı Komitesi
 `asuymt.com` web sitesinin ve topluluğa ait dijital sistemlerin geliştirilmesi, altyapı güvenliği ve GitHub organizasyonunun teknik standartlara uygun işletilmesinden sorumludur.
 
-* **Görevler:**
   * **Altyapı ve Güvenlik:** Teknik altyapısını kurar ve yönetir. `asuymt.com` alan adı, Cloudflare, barındırma ayarları ve SSL sertifikalarının sürekliliğini sağlamak.
   * **GitHub Organizasyonu:** Depoların (repo), issue'ların, PR standartlarının ve teknik dokümantasyonun düzenini korumak.
   * **Duyurular ve Paylaşımlar:** Etkinlik duyuruları, blog yazıları, proje tanıtımları gibi içeriklerin web sitesine düzenli olarak eklenmesini koordine eder.
