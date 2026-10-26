@@ -1,12 +1,8 @@
 <p align="center">
-	<img src="LOGO/cover/Kapak-1_6.png" alt="ASÜ-YMT Kapak" width="900" />
+	<img src="LOGO/logo-colored-2-nobg.png" alt="ASÜ-YMT Logo" width="180" />
 </p>
 
-<p align="center">
-	<img src="LOGO/Logo-white-bg-black-circle.png" alt="ASÜ-YMT Logo" width="180" />
-</p>
-
-<h1 align="center" style="width: 100%;">ASÜ-YMT BELGELERİ</h1>
+<h1 align="center" style="width: 100%;" id="ASÜ-YMT BELGELERİ">ASÜ-YMT BELGELERİ</h1>
 
 ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunumlar ve örnek codebase içerikleri burada tutulur.
 
@@ -16,7 +12,7 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 
 - [Topluluk Hakkında](Topluluk-hakkinda.md)
 - [Organizasyon Yapısı](OrganizasyonYapisi.md)
-- [Etkinlikler](ETKİNLİKLER/readme.md)
+- [Organizasyon Görevleri](OrganizasyonGorevleri.md)
 - [Bilgi-Belge-Public Drive](https://drive.google.com/drive/folders/16QC0HHHCLFOzn_hFLOtWJABrl4YtSP6X)
 
 <br>
