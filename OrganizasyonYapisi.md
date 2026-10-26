@@ -1,98 +1,59 @@
 # ASÜ-YMT ORGANİZASYON ŞEMASI
 
-> Yayınlandı: 27.10.2025 <br>
-> 15.03.2026: Organizasyon yapısı güncellendi
+- Yayınlandı: 27.10.2025
+- 15.03.2026: Organizasyon yapısı güncellendi
+- 25.10.2026: - Organizasyon yapısı güncellendi, görev tanımları başka belgeye ayrıldı.
 
 <br>
 
-## ORGANİZASYON ŞEMASI
+## 1.0 ORGANİZASYON ŞEMASI VE GENEL YAPI
 
-- Yönetim Kurulu
-  - Çekirdek Yönetim Kurulu
-    - Başkan
-    - Başkan Yardımcısı
-    - ÇYK Üyeleri
-  - Operasyonel Yönetim Kurulu
-    - Komite Direktörleri
-    - OYK Üyeleri
-  - Genel Sekreterlik ve İdari İşler
-    - İdari İşler ve Belgeleme Koordinatörü
-    - Sekreter
-    - Sayman
+ASÜ-YMT, **7 Komite** esasına dayalı bir yönetim modeliyle faaliyet gösterir. Tüm operasyonel ve idari yürütme doğrudan komiteler ve komitelere bağlı dinamik çalışma ekipleri üzerinden gerçekleştirilir.
 
-- Denetleme Kurulu
-  - DK Başkanı
-  - DK Üyeleri
-
-- Komiteler
-  - Etkinlik ve Sosyal İşler Komitesi
-    - Direktör
-      - Etkinlik Ekipleri
-  - Halka İlişkiler (PR) Komitesi
-    - Direktör
-    - Sosyal Medya Ekibi
-    - Tasarım Ekibi
-    - Web ve GitHub PR Ekibi
-    - Ekip Üyeleri
-  - Proje ve Yarışma Komitesi
-    - Direktör
-      - Proje Ekipleri
-  - Eğitim Komitesi
-    - Direktör
-      - Ekip Üyeleri
-
-- Bağımsız Gruplar
-  - Web Grubu
-  - Yapay Zeka Grubu
-  - Robotik Grubu
-  - Oyun Geliştirme Grubu
-  - Masaüstü Uygulama Grubu
-  - Mobil Uygulama Grubu
+* **Yönetim Kurulu:**
+  * Topluluk Başkanı
+  * Başkan Yardımcısı
+  * Genel Sekreter
+  * Muhasip (Sayman)
+  * Yönetim Kurulu Üyeleri (Komite Yürütücüleri)
+  * YK Aday Üyeleri / Proje Liderleri
+* **Denetleme Kurulu:**
+  * Denetleme Kurulu Başkanı
+  * Denetleme Kurulu Üyeleri (2+ kişi)
+* **Komiteler:**
+  1. İdari İşler ve Belgeleme Komitesi
+  2. İnsan Kaynakları Komitesi
+  3. Dış İlişkiler Komitesi
+  4. Etkinlik ve Organizasyon Komitesi
+  5. Sosyal Medya Komitesi
+  6. Proje Komitesi
+  7. Web ve Teknik Altyapı Komitesi
+* **Dinamik Ekipler:**
+  * Komiteler altında yazılım, yarışma, içerik veya etkinlik bazında dinamik olarak açılıp kapanabilen çalışma ekipleridir.
 
 <br><br>
 
+## ORGANİZASYON YAPISI VE GÖREV TANIMLARI
 
-### A) YÖNETİM KURULU ÜYELERİ
+### YÖNETİM KURULU ÜYELERİ
 
-Topluluk Başkanı: Mehmet Akif AKKOÇ <br>
-Başkan Yardımcısı: Hakan ULUÇAR
-
-#### A.1) ÇEKİRDEK YÖNETİM KURULU (ÇYK)
-
-| Çekirdek Yönetim   | Görev Tanımı                   |
-| ------------------ | ------------------------------ |
-| Mehmet Akif AKKOÇ  | Proje Kom. Denetimi            |
-| Hakan ULUÇAR       | Halkla İlişkiler Kom. Denetimi |
-| Buse Yağmur ÖZDİL  | Etkinlikler Kom. Denetimi      |
-| Elif YAĞIZ         | Eğitim Kom. Denetimi           |
-| Kerim Efe PEHLİVAN | Çekirdek Yönetim Adayı         |
-
-<br>
-
-#### A.2) OPERASYONEL YÖNETİM KURULU (OYK)
-
-| Operasyonel Yönetim | Görev Tanımı               |
-| ------------------- | -------------------------- |
-| Recep BEYDÜZ        | Saha / Operasyon Denetimi  |
-| Emir FETOLMAZ       | Teknik ve Bilişim Denetimi |
-| Burak ARIKAN        | Teknik ve Bilişim Denetimi |
-| Mert Çelik          | Etkinlikler Ekibi Denetimi |
-| Ömür Faruk DURU     | Denetleme Kurulu Başkanı   |
-
-<br>
-
-#### A.3) Genel Sekreterlik ve İdari İşler
-
-| Görev Tanımı             | Sorumlu Kişi         |
-| ------------------------ | -------------------- |
-| İdari İşler ve Belgeleme | Süveyda Şeyma Mercan |
-| Sekreter                 | Buse Yağmur ÖZDİL    |
-| Sayman                   | Elif YAĞIZ           |
+|     | **ROL**           | **AD SOYAD**         | **GÖREVİ**               |
+| --- | ----------------- | -------------------- | ------------------------ |
+| 1   | Topluluk Başkanı  | Mehmet Akif AKKOÇ    | ∞                        |
+| 2   | Başkan Yardımcısı | Elif YAĞIZ           | Dış İlişkiler            |
+| 3   | Genel Sekreter    | Süveyda Şeyma MERCAN | İdari İşler ve Belgeleme |
+| 4   | Muhasip (Sayman)  |                      | Etkinlik                 |
+| 5   | Kurul Üyesi       | Yaren BEŞER          | İnsan Kaynakları         |
+| 6   | Kurul Üyesi       | Berfin ATAR          | Sosyal Medya             |
+| 7   | Kurul Üyesi       |                      | Proje                    |
+| 8   | Aday Üye          |                      |                          |
+| 9   | Aday Üye          |                      |                          |
+| 10  | Aday Üye          |                      |                          |
 
 <br>
 
 
-### B) DENETLEME KURULU (DK)
+### DENETLEME KURULU
 
 | Denetleme Kurulu | Görev Tanımı             |
 | ---------------- | ------------------------ |
@@ -103,402 +64,25 @@ Başkan Yardımcısı: Hakan ULUÇAR
 <br><br>
 
 
-### C) HALKA İLİŞKİLER (PR) KOMİTESİ
+### EKİP ÜYESİ VE KOMİTELER
+
+|     | AD SOYAD             | Kıdemli | İdari | İK  | Dış İ | Etk | Sos | Proj | Web | Pasif |
+| --- | -------------------- | ------- | ----- | --- | ----- | --- | --- | ---- | --- | ----- |
+| 1   | Mehmet Akif AKKOÇ    |         |       |     |       |     |     |      |     |       |
+| 2   | Elif YAĞIZ           |         |       |     | x     |     |     |      |     |       |
+| 3   | Süveyda Şeyma Mercan |         | x     |     |       |     |     |      |     |       |
+| 4   | Yaren Beşer          |         |       | x   |       |     |     |      |     |       |
+| 5   | Berfin Atar          |         |       |     |       |     | x   |      |     |       |
+| 6   |                      |         |       |     |       | x   |     |      |     |       |
+| 7   |                      |         |       |     |       |     |     |      | x   |       |
+| -   | -                    | -       | -     | -   | -     | -   | -   | -    | -   |       |
+| 8   | Recep Beydüz         | x       |       |     |       |     |     |      |     | x     |
+| 9   | Mert Çelik           | x       |       |     |       |     |     |      |     | x     |
+| 10  | Ömür Faruk DURU      | x       |       |     |       |     |     |      |     | x     |
+| 11  | Hakan ULUÇAR         | x       |       |     |       |     |     |      |     | x     |
+| -   | -                    | -       | -     | -   | -     | -   | -   | -    | -   |       |
+| 12  | Ali Arda AYDIN       |         |       |     |       |     |     |      |     |       |
+|     |                      |         |       |     |       |     |     |      |     |       |
+|     | AD SOYAD             | Kıdemli | İdari | İK  | Dış İ | Etk | Sos | Proj | Web | Pasif |
+|     | **TOPLAM:**          | 4       | 1     | 1   | 1     | 2   | 3   | 1    | 1   | 4     |
 
-- Direktör: Emir FETOLMAZ (OYK Üyesi)
-
-#### C.1) Sosyal Medya Ekibi
-
-- Pelin PINARBAŞI (Sosyal Medya Sorumlusu)
-- Gizem
-- Ayşenaz
-
-#### C.2) Tasarım Ekibi
-
-- Ali Arda AYDIN
-- Asude Tunay TORUN
-
-#### C.3) Web ve GitHub PR Ekibi
-
-- Emir FETOLMAZ (OYK Üyesi)
-- Burak ARIKAN (OYK Üyesi)
-
-
-<br><br>
-
-
-### D) ETKİNLİKLER KOMİTESİ
-
-- Ayşe Kübra KALAYCI
-- Sude Nas ÖZKUL
-- Yaren
-- Berfin
-- Hümeyra
-- Yiğit
-- Caner USLU
-- Muzaffer Arda ÜNSAL
-- Z. Sude
-- Belen
-- Sıla İNCİ
-
-<br><br>
-
-
-### E) PROJE KOMİTESİ
-
-- Zehra AKDENİZ (Proje Takibi)
-
-#### E.1) Web Sitesi Projesi
-- Burak ARIKAN - Proje Lideri (OYK Üyesi)
-- Emir FETOLMAZ (OYK Üyesi)
-- Emin (1.sınıf)
-
-#### E.2) QR Kayıt Projesi
-
-- Efe Kerim PEHLİVAN (ÇYK Üyesi)
-
-#### E.3) Üye Takip Projesi
-
-- Samet
-
----
-
-- Rabia ?
-- Batuhan ?
-
-
-
-<br><br><br>
-
-## ASÜ-YMT EKİP ÜYELERİ VE ROLLERİ
-
-
-
-- MEHMET AKİF AKKOÇ:
-  - Topluluk Kurucu Başkanı
-  - Çekirdek Yönetim Kurulu Üyesi
-  - Proje Komitesi Denetimi
-- Hakan ULUÇAR:
-  - Topluluk Başkan Yardımcısı
-  - Çekirdek Yönetim Kurulu Üyesi
-  - Halka İlişkiler (PR) Komitesi Denetimi
-  - Yönelim: Teknik Etkinlikler
-- Buse Yağmur ÖZDİL:
-  - Çekirdek Yönetim Kurulu Üyesi
-  - Etkinlikler Komitesi Denetimi
-  - Sekreter (tüzük gereği)
-  - Yönelim: Sosyal Etkinlikler
-- Elif YAĞIZ:
-  - Çekirdek Yönetim Kurulu Üyesi
-  - Eğitim Komitesi Denetimi
-  - Sayman (tüzük gereği)
-  - Yönelim: Eğitim ve Proje Yönetimi
-- Kerim Efe PEHLİVAN:
-  - Çekirdek Yönetim Kurulu Üye Adayı
-  - QR Kayıt Projesi Lideri
-- Recep BEYDÜZ:
-  - Topluluk Kurucu Yönetim Kurulu Üyesi
-  - Operasyonel Yönetim Kurulu Üyesi
-  - Yönelim: Saha / Operasyon Denetimi
-- Ömür Faruk DURU:
-  - Topluluk Kurucu Yönetim Kurulu Üyesi
-  - Operasyonel Yönetim Kurulu Üyesi
-  - Denetleme Kurulu Başkanı
-  - Yönelim: Denetleme ve Raporlama
-- Emir FETOLMAZ:
-  - Topluluk Kurucu Yönetim Kurulu Üyesi
-  - Operasyonel Yönetim Kurulu Üyesi
-  - Denetleme Kurulu Üyesi
-  - Halka İlişkiler (PR) Komitesi Direktörü
-  - Web ve GitHub PR Ekibi Üyesi
-  - Yönelim: Teknik ve Bilişim Denetimi, Medya Yönetimi
-- Burak ARIKAN:
-  - Topluluk Kurucu Yönetim Kurulu Üyesi
-  - Operasyonel Yönetim Kurulu Üyesi
-  - Denetleme Kurulu Üyesi
-  - Web Sitesi Projesi Lideri
-  - Yönelim: Teknik ve Bilişim Denetimi, Proje Yönetimi
-- Mert Çelik:
-  - Topluluk Kurucu Yönetim Kurulu Üyesi
-  - Operasyonel Yönetim Kurulu Üyesi
-  - Etkinlikler Ekibi Denetimi
-  - Yönelim: Etkinlik Yönetimi ve Organizasyonu
-- Süveyda Şeyma Mercan:
-  - İdari İşler ve Belgeleme Koordinatörü
-- Pelin PINARBAŞI:
-  - Sosyal Medya Sorumlusu (PR Komitesi)
-
-| ÜYE ADI             | ROLÜ                     |
-| ------------------- | ------------------------ |
-| Gizem               | Sosyal Medya Ekibi Üyesi |
-| Ayşenaz             | Sosyal Medya Ekibi Üyesi |
-| Ali Arda AYDIN      | Tasarım Ekibi Üyesi      |
-| Asude Tunay TORUN   | Tasarım Ekibi Üyesi      |
-|                     |                          |
-| Ayşe Kübra KALAYCI  | Etkinlikler Ekibi Üyesi  |
-| Yaren               | Etkinlikler Ekibi Üyesi  |
-| Berfin              | Etkinlikler Ekibi Üyesi  |
-| Hümeyra             | Etkinlikler Ekibi Üyesi  |
-| Yiğit               | Etkinlikler Ekibi Üyesi  |
-| Caner USLU          | Etkinlikler Ekibi Üyesi  |
-| Muzaffer Arda ÜNSAL | Etkinlikler Ekibi Üyesi  |
-| Z. Sude             | Etkinlikler Ekibi Üyesi  |
-| Belen               | Etkinlikler Ekibi Üyesi  |
-| Sıla İNCİ           | Etkinlikler Ekibi Üyesi  |
-| Sude Nas ÖZKUL      | Etkinlikler Ekibi Üyesi  |
-|                     |                          |
-| Zehra AKDENİZ       | Proje Ekibi Üyesi        |
-| Emin                | Proje Ekibi Üyesi        |
-| Samet               | Proje Ekibi Üyesi        |
-|                     |                          |
-| Rabia               |                          |
-| Batuhan             |                          |
-
-
-<br><br><br>
-
-
-## ASÜ-YMT ORGANİZASYON YAPISI VE GÖREV TANIMLARI
-
-
-<br><br>
-
-
-
-### 1.0 GİRİŞ
-
-Bu doküman, Aksaray Üniversitesi Yazılım Mühendisliği Topluluğu'nun (ASÜ-YMT) operasyonel verimliliğini, sürdürülebilirliğini ve hedeflerine ulaşmasını sağlamak amacıyla oluşturulan resmi organizasyon şemasını ve görev tanımlarını içerir. Şema, karar alma mekanizmalarını, sorumluluk alanlarını ve birimler arası iş akışını netleştirmek için tasarlanmıştır.
-
-<br>
-
-
-#### 1.1 Temel Hiyerarşi: Ekip / Grup Yapısı
-
-Topluluğun en küçük fonksiyonel birimi "Ekip" veya "Grup" olarak adlandırılır. Her birim şu yapıdan oluşur:
-* **Ekip Lideri:** Ekibin/grubun yönetiminden, motivasyonundan ve hedeflerine ulaşmasından sorumludur. İlgili Direktöre raporlama yapar.
-* **Aktif Üyeler:** Ekibin ana iş gücünü oluşturan, görev ve sorumluluk alan, projelere/faaliyetlere doğrudan katılan üyelerdir.
-* **Pasif Üyeler:** Faaliyetleri uzaktan takip eden, bilgi birikiminden faydalanan ve potansiyel olarak aktif üye olmaya aday üyelerdir.
-
-<br><br>
-
-
-
-
-### 2.0 YÖNETİM KURULU (YK) - (Stratejik Kadro)
-
-Topluluğun en üst düzey stratejik karar alma ve yasal yürütme organıdır.
-Topluluğun yasal, finansal ve stratejik yönetiminden sorumlu olan ana karar alıcı ekiptir.
-**İlk ve temel görevi** topluluğun mevcut durumunu denetlemek, iyileştirmek ve sürdürülebilirliğini sağlamaktır.
-
-
-#### 2.1 Çekirdek Yönetim Kurulu
-
-Topluluğun stratejik yönetiminden sorumlu çekirdek kadrodur. **Ana görevleri yönetimdir, ikinci görevleri ise isimleriyle ilişkilidir.**
-
-* **Başkan:**
-  * *Ana Görev:* Topluluğun stratejik liderliğini ve genel yönetimini sağlar. YK toplantılarına başkanlık eder.
-  * *İkinci Görev:* Topluluğun resmi temsilcisidir. Üniversite yönetimi, dış paydaşlar (sponsorlar, kurumlar) ve medya ile ilişkileri yürütür. Stratejik vizyonu belirler ve topluluğun uzun vadeli hedeflerini şekillendirir.
-
-* **Başkan Yardımcısı:**
-  * *Ana Görev:* Topluluğun yönetiminden ve operasyonel faaliyetlerinden sorumludur. Başkanın yokluğunda vekalet eder.
-  * *İkinci Görev:* Operasyonel YK'nın koordinasyonunu sağlar. YK kararlarının operasyona aktarılmasını takip eder ve komiteler arası uyumu gözetir.
-
-* **ÇYK Üyeleri:**
-  * *Ana Görev:* YK'nın stratejik karar alma süreçlerine aktif katılırlar. Kendi alanlarında (proje, etkinlik, eğitim, medya) stratejik denetim ve yönlendirme yaparlar.
-  * *İkinci Görev:* Kendi alanlarında (proje, etkinlik, eğitim, medya) operasyonel yönetim kuruluna (OYK) rehberlik ederler. OYK'nın faaliyetlerini denetler ve gerektiğinde müdahale ederler.
-
-<br>
-
-
-
-#### 2.2 Operasyonel Yönetim Kurulu
-
-Yönetim Kurulu tarafından belirlenen stratejileri ve hedefleri, kendi komiteleri aracılığıyla sahada uygulayan ve operasyonu yürüten yönetici kadrosudur.
-Topluluğun hedeflerine ulaşması için gerekli operasyonel faaliyetlerin planlanması, organize edilmesi ve yürütülmesinden sorumludurlar.
-Komiteler arası koordinasyondan sorumludurlar.
-
-**İşleyiş**: Operasyonel YK üyeleri, Çekirdek YK'ya düzenli raporlama yapar. YK toplantılarına, sadece kendi komiteleriyle ilgili bir gündem maddesi olduğunda veya genel operasyonel raporlama için davet edilirler ve söz hakkı sahibi olurlar.
-
-* **Proje Direktörü:**
-  * Proje ve Yarışma Komitesi'nin liderliğini yapar. Topluluğun amaç ve hedefleri doğrultusunda gerekli projeleri organize eder. Teknofest, hackathon ve ulusal/uluslararası yarışmalara yönelik proje takımlarının kurulmasını, yönetimini ve koordinasyonunu sağlar. Gelen proje fikirlerini değerlendirir, proje ekibi kurmak isteyenleri ve projelere katılmak isteyenleri eşleştirir, ekip arayışındaki kişilerle aktif iletişim kurar. Proje ekiplerinin hedeflerine ulaşması için kaynak planlaması yapar ve YK'ya düzenli ilerleme raporları sunar.
-
-* **Etkinlik Direktörü:**
-  * Etkinlik ve Sosyal İşler Komitesi'nin liderliğini yapar. Topluluğun tüm etkinliklerinin (seminer, konferans, atölye, sosyal faaliyetler) planlanması ve koordinasyonundan sorumludur. **Topluluğun aktif kalmasından ve dinamizmini sürdürmesinden doğrudan sorumludur.** Üye katılımını teşvik eden düzenli aktiviteler ve sosyal faaliyetler organize eder. Etkinlik Ekibi'ni yönetir. Hem profesyonel etkinliklerin lojistiğini hem de üye aidiyetini güçlendiren sosyal faaliyetleri planlar ve hayata geçirir.
-
-* **Eğitim Direktörü:**
-  * Eğitim Komitesi'nin liderliğini yapar. Topluluğun amaç ve hedeflerine uygun olarak üyelerin mevcut seviyelerine göre eğitim stratejisi oluşturur. Dönemlik eğitim takvimini hazırlar ve atölye, seminer, teknik eğitimlerin kalitesinden sorumludur. Üyelerin gelişim sürecini desteklemek için gerekirse küçük adımlarla ilerleyen mini projeler tasarlar ve organize eder. Eğitim materyallerinin hazırlanması ve bilgi bankasının yönetimini koordine eder. Üyelerin teoriden pratiğe geçişini kolaylaştıracak öğrenme deneyimleri sunar.
-
-* **Sosyal Medya Direktörü:**
-  * Medya ve İletişim Komitesi'nin liderliğini yapar. **Topluluğun dış dünyaya açılan yüzü ve dijital kimliğidir. Bu nedenle son derece kritik ve yüksek sorumluluk gerektiren bir roldür.** Topluluğun marka imajını, profesyonel itibarını ve online görünürlüğünü doğrudan yönetir. Sosyal medya ve web sitesi ekiplerini koordine eder. Tüm dijital içeriklerin (metin, görsel, video) topluluk değerlerine uygun, profesyonel ve kaliteli olmasını sağlar. Topluluk faaliyetlerinin etkili bir şekilde duyurulmasından, dijital platformlardaki etkileşimin artırılmasından ve topluluk imajının korunmasından tam sorumluluk taşır.
-
-#### 2.3 Genel Sekreterlik ve İdari İşler
-
-* **İdari İşler ve Belgeleme Koordinatörü:**
-  * *Ana Görev:* Topluluğun kurumsal hafızasını korumak; resmi ve idari süreçlerin aksamadan yürümesini sağlamak ve üye verilerini güncel tutarak topluluk içi şeffaflığı raporlamak.
-  * *İkinci Görev:* Topluluğun "Hakkında", "Vizyon-Misyon" ve "Organizasyon Yapısı" gibi temel belgelerini güncel tutar; yıl boyunca gerçekleştirilen tüm faaliyetlerin Etkinlik Raporlarını (ne yapıldı, nasıl geçti, sonuçlar nedir?) hazırlar ve arşivler; topluluğun dijital ve fiziksel arşivinin düzeninden sorumludur. Üniversite yönetimi veya dış kurumlarla yapılacak resmi dilekçeleri hazırlar; tüzük gereği tutulması gereken Topluluk Karar Defterini ve diğer resmi evrakları (Sekreter ve Sayman ile koordineli şekilde) usulüne uygun doldurur; resmiyet arz eden belgelerin takibini ve onay süreçlerini yönetir. Yönetim Kurulu (ÇYK ve OYK) toplantılarında toplantı tutanaklarını tutar; alınan kararları, atanan görevleri ve son teslim tarihlerini özetleyerek ilgili birimlere raporlar; toplantı gündeminin takibini yaparak bir önceki toplantıda alınan kararların durumunu sorgular. Yeni üye kayıt süreçlerini yönetir ve Üye Veri Tabanını güncel tutar; üyelerin aktiflik durumlarını izler, topluluktan ayrılan veya yeni katılanların kaydını düşer; İnsan Kaynakları birimiyle koordineli çalışarak üye bilgilerinin gizliliğini ve güvenliğini sağlar. Düzenlenen etkinliklerin ardından katılımcı listelerini oluşturur ve not eder; etkinlik katılım oranlarını analiz ederek Yönetim Kurulu'na veriye dayalı geri bildirimler sunar.
-
-* **Sekreter:**
-  * *Ana Görev:* Topluluğun yönetiminden ve idari işlerinden sorumludur.
-  * *İkinci Görev:* Üye kayıtlarını ve resmi evrakları yönetir. Tüm resmi yazışmaları (izinler, dilekçeler, tüzük) yürütür. YK toplantı tutanaklarını ve karar defterini tutar. Topluluk arşivinin düzenli ve güncel tutulmasını sağlar.
-
-* **Sayman:**
-  * *Ana Görev:* Topluluğun yönetiminden ve finansından sorumludur.
-  * *İkinci Görev:* Bütçeyi hazırlar, tüm gelir-giderleri takip eder ve mali raporları YK'ya düzenli olarak sunar. Sponsorluk anlaşmalarının mali süreçlerini yönetir ve finansal şeffaflığı sağlar.
-
-
-<br><br>
-
-
-
-
-### 2.4 DENETLEME KURULU
-
-Yönetim Kurulu'ndan bağımsız, doğrudan Genel Kurul'a (tüm üyeler) karşı sorumlu olan denetim organıdır.
-* **Amacı:** YK'nın faaliyetlerinin ve Sayman'ın mali hesaplarının topluluk tüzüğüne ve amaçlarına uygunluğunu denetler. Dönem sonunda Genel Kurul'a denetim raporu sunar.
-
-<br><br>
-
-
-
-
-### 3.0 PROJE VE YARIŞMA KOMİTESİ
-
-* **Lider:** Proje Direktörü
-
-* **Komite Amacı:**
-  * Bu komite, topluluğun amacı ve hedefleri doğrultusunda, üyelerin portföylerini güçlendirecek, teknik yeteneklerini geliştirecek ve topluluk adına başarı getirecek projelerin organize edilmesinden sorumludur. 
-  * Ulusal ve uluslararası yarışmalarda (Teknofest, hackathon, teknoloji olimpiyatları vb.) topluluğu temsil edecek proje takımlarının kurulması, yönetimi ve desteklenmesi bu komitenin temel görevidir.
-  * **Küçük ve orta ölçekli projeler** de bu komite bünyesinde yer alır. Bu projeler, üyelerin büyük ölçekli yarışma projelerine katılmadan önce **deneyim kazanmasını, ekip çalışması becerilerini geliştirmesini ve teknik bilgi birikimini artırmasını** sağlar. Küçük projelerden elde edilen tecrübe, üyelerin büyük ve yarışma odaklı projelere daha hazırlıklı katılmalarını mümkün kılar.
-  * Gelen proje fikirlerini değerlendirmek, proje ekibi kurmak isteyen üyeleri bir araya getirmek, projelere katılmak isteyen üyeleri uygun ekiplerle eşleştirmek ve proje süreçlerinin başarıyla yürütülmesini sağlamak bu komitenin sorumluluk alanındadır.
-
-* **Mevcut Durum:**
-  * Komite şu anda yeni kurulma aşamasındadır ve aktif bir proje ekibi bulunmamaktadır.
-  * İlerleyen dönemlerde gelen proje fikirleri ve topluluk hedefleri doğrultusunda proje ekipleri oluşturulacak ve bu ekipler bu komite bünyesinde organize edilecektir.
-  * Bu komite bünyesinde hem **küçük/orta ölçekli öğrenme odaklı projeler** hem de **büyük ölçekli, uzun vadeli ve yarışma odaklı proje takımları** (örn: VTOL İHA, Roket, Otonom Araç, Yapay Zeka Projeleri) yer alacaktır. Küçük projeler, üyelerin deneyim kazanması ve büyük projelere hazırlanması için bir geçiş aşaması oluşturacaktır.
-
-* **Proje Ekipleri:** *(İlerleyen dönemlerde kurulacaktır)*
-
-
-<br><br>
-
-
-
-
-### 4.0 ETKİNLİK VE SOSYAL İŞLER KOMİTESİ
-
-* **Lider:** Etkinlik Direktörü
-
-* **Komite Amacı:** 
-  * Bu komite, topluluğun **"kalbi" ve "sosyal ruhu"** olarak, üyelerin bir arada kalmasını, aktif katılımını ve topluluğa aidiyet duygusunu güçlendirmekten sorumludur.
-  * **Topluluğun sürekli aktif ve dinamik kalmasını sağlamak** bu komitenin en kritik görevidir. Düzenli aktiviteler ve sosyal faaliyetler organize ederek üye etkileşimini canlı tutar.
-  * Toplulukta gerçekleşecek tüm etkinliklerin (seminer, konferans, atölye, hackathon, panel, sosyal buluşmalar) **lojistik altyapısını kurmak ve operasyonel desteğini sağlamak** bu komitenin temel sorumluluğudur.
-  * Diğer komitelerin (Eğitim, Proje, Medya) organize ettiği etkinliklerin başarılı bir şekilde gerçekleşmesi için gerekli organizasyonel desteği sunar ve tüm komitelerin "lojistik merkezi" olarak görev yapar.
-
-* **Ekipler:**
-  
-  * **Etkinlik Ekibi:**
-    * Topluluğun **tüm etkinliklerinin ve sosyal faaliyetlerinin organizasyon merkezi**dir.
-    * **Lojistik ve Teknik Altyapı:** Etkinlik mekanlarını rezerve eder, ses sistemi, projeksiyon gibi teknik donanımı sağlar.
-    * **Etkinlik Yönetimi:** Kayıt masası, katılımcı takibi, konuşmacı ağırlama, ikram organizasyonu yapar ve etkinlik sırasında sorunları anında çözer.
-    * **Sosyal Aktiviteler:** Hoş geldin kahvaltıları, tanışma etkinlikleri, oyun turnuvaları, film geceleri, piknikler organize eder.
-    * **Özel Etkinlikler:** Teknik geziler, sosyal sorumluluk projeleri, kutlama ve özel gün etkinlikleri düzenler.
-    * **Koordinasyon:** Diğer komitelerin organize ettiği tüm etkinliklerin lojistik desteğini sağlar ve topluluk kültürünü korur.
-
-<br><br>
-
-
-
-
-### 5.0 EĞİTİM KOMİTESİ
-
-* **Lider:** Eğitim Direktörü
-
-* **Komite Amacı:**
-  * Bu komite, topluluğun **eğitim ve bilgi paylaşım merkezi** olarak, üyelerin teknik ve teorik yeterliliklerini artırmaktan, sürekli gelişimlerini desteklemekten ve sektöre hazır hale getirmekten sorumludur.
-  * Topluluğun amaç ve hedefleri doğrultusunda, **üyelerin mevcut bilgi seviyelerine uygun, yapılandırılmış ve sürdürülebilir eğitim programları** oluşturur ve yürütür.
-  * Teorik bilgiyi pratiğe dönüştürmek için **atölye, seminer, teknik eğitimler** ve gerektiğinde **küçük adımlarla ilerleyen mini projeler** organize eder.
-  * Topluluk için kalıcı bir **bilgi bankası** oluşturarak, eğitim materyallerinin, kod örneklerinin ve teknik dokümanların düzenli ve erişilebilir olmasını sağlar.
-
-* **Ekipler:**
-  
-  * **Atölye ve Seminer Ekibi:**
-    * Dönemlik **eğitim takvimini** oluşturur ve planlar.
-    * Eğitim konularını (programlama dilleri, framework'ler, araçlar, metodolojiler) üyelerin ihtiyaçlarına göre belirler.
-    * Konuşmacıları tespit eder (topluluk içi uzman üyeler, mezunlar, sektör profesyonelleri, akademisyenler).
-    * Atölye (workshop) ve seminerlerin içerik kalitesini, uygulamalı olmasını ve katılımcı etkileşimini sağlar.
-    * Eğitim sonrası geri bildirim toplar ve sürekli iyileştirme yapar.
-
-  * **Kaynak Geliştirme Ekibi:**
-    * Eğitimlerde kullanılacak **sunumları, slaytları, kod örneklerini ve dokümanları** hazırlar ve derler.
-    * Topluluğun **resmi GitHub deposunu** yönetir (kod örnekleri, proje şablonları, eğitim materyalleri).
-    * Topluluk **bilgi bankasını** (Notion, Wiki, Google Drive vb.) organize eder ve düzenli günceller.
-    * Eğitim içeriklerinin kaliteli, güncel ve erişilebilir olmasını sağlar.
-    * Üyelerin kendi kendine öğrenmesini destekleyecek kaynakları (video, makale, tutorial linkleri) düzenler.
-
-
-<br><br>
-
-
-
-
-### 6.0 MEDYA VE İLETİŞİM KOMİTESİ
-
-* **Lider:** Sosyal Medya Direktörü
-
-* **Komite Amacı:** 
-  * Bu komite, topluluğun **"dış dünyaya açılan yüzü" ve "dijital kimliği"** olarak, topluluk marka imajını, profesyonel itibarını ve online görünürlüğünü yönetmekten sorumludur.
-  * **Son derece kritik ve yüksek sorumluluk taşıyan** bir komitedir - çünkü toplulukla ilgili ilk izlenim ve algı bu komite tarafından oluşturulur.
-  * Tüm dijital platformlarda (sosyal medya, web sitesi, blog, medya yayınları) topluluk faaliyetlerinin **profesyonel, tutarlı ve etkili bir şekilde duyurulmasını** sağlar.
-  * Topluluk değerlerine uygun, **kaliteli, yaratıcı ve ilgi çekici dijital içerikler** üreterek, topluluk bilinirliğini artırır ve hedef kitleyle güçlü bir bağ kurar.
-  * Tüm komitelerin (Eğitim, Etkinlik, Proje) ihtiyaç duyduğu **görsel tasarım, içerik üretimi ve dijital duyuru desteğini** sağlayarak topluluk içi medya merkezi olarak görev yapar.
-
-* **Ekipler:**
-  
-  * **Sosyal Medya Yönetim Ekibi:**
-    * Topluluğun **sosyal medya hesaplarını** (Instagram, LinkedIn, Twitter, YouTube vb.) aktif ve profesyonel bir şekilde yönetir.
-    * **İçerik üretimi:** Tüm dijital platformlar için metin içerikleri (sosyal medya paylaşımları, duyuru metinleri, blog yazıları, video senaryoları) yazar ve hazırlar.
-    * **Görsel tasarım:** Topluluk etkinlikleri, duyurular ve projeler için afişler, görseller ve dijital tasarımlar (Photoshop, Figma, Canva vb.) oluşturur.
-    * **Video ve montaj:** Etkinlik videoları, tanıtım filmleri ve sosyal medya içerikleri için video çekimi ve kurgusu yapar.
-    * **İçerik yayın takvimi** oluşturur ve düzenli paylaşımlar yapar.
-    * Topluluk etkinliklerini, duyurularını ve başarılarını zamanında ve etkili bir şekilde duyurur.
-    * Takipçi **etkileşimlerini** (yorum, DM, soru) hızlı ve profesyonel bir şekilde yanıtlar.
-    * Sosyal medya **analizlerini** (erişim, etkileşim, takipçi artışı) düzenli olarak takip eder ve raporlar.
-    * Trend konuları takip ederek topluluk içeriklerini güncel ve ilgi çekici tutar.
-    * Diğer komitelerden gelen tasarım, içerik ve duyuru taleplerini karşılar.
-
-  * **Topluluk Web Sitesi Ekibi:**
-    * Topluluğun **resmi web sitesinin** teknik altyapısını kurar ve yönetir.
-    * Web sitesinin **güvenliğini, hosting yönetimini ve düzenli güncellemelerini** sağlar.
-    * Etkinlik duyuruları, blog yazıları, proje tanıtımları gibi içeriklerin web sitesine düzenli olarak eklenmesini koordine eder.
-    * Web sitesinin kullanıcı dostu, hızlı ve mobil uyumlu olmasını sağlar.
-    * Web sitesi analitiklerini (ziyaretçi, trafik kaynağı) takip eder ve iyileştirmeler yapar.
-
-<br><br>
-
-
-
-
-### 7.0 BAĞIMSIZ GRUPLAR (Teknoloji Odak Grupları)
-
-* **Yapı:** Bu gruplar, komitelerden farklı olarak *konu bazlı* organize olmuş, *kendi kendini yöneten* (özerk) teknik çalışma gruplarıdır.
-
-* **Amacı:**
-  * Aynı teknoloji alanına ilgi duyan üyelerin bir araya gelerek **rahat ve özgür bir ortamda sohbet etmesini**, **bilgi paylaşmasını**, **deneyim aktarmasını** ve **teknik sorunlarını birlikte tartışmasını** sağlar.
-  * Bu gruplar, resmi bir eğitim yapısı değil, **peer-to-peer (akran-akran) öğrenme ve destek ağı** oluşturur.
-  * Üyeler kendi ilgi alanlarına göre gruplara katılır, soru sorar, deneyimlerini paylaşır, birbirlerine yardımcı olur ve birlikte gelişirler.
-
-* **İşleyiş:**
-  * Bu gruplar **resmi eğitim düzenlemez**, ancak kendi aralarında **informal bilgi alışverişi ve teknik tartışmalar** yaparlar.
-  * Grup üyeleri, Discord kanalları, WhatsApp grupları veya düzenli fiziksel buluşmalar aracılığıyla **sohbet eder, soru sorar, çözüm önerir ve deneyim paylaşır**.
-  * Her grubun bir **grup lideri** olabilir (isteğe bağlı), ancak bu lider bir "yönetici" değil, grubu **motive eden, tartışmaları organize eden ve aktif tutan bir koordinatör** rolündedir.
-
-* **Proje İlişkisi:**
-  * Bir bağımsız grubun üyeleri, kendi aralarında **proje yapmaya karar verirlerse**, **Proje ve Yarışma Komitesi**'ne başvurarak resmi bir **proje ekibi** oluştururlar.
-  * Örneğin, Robotik Grubu'ndan 5 kişi Teknofest için VTOL İHA projesi yapmak isterse, bu ekip **Proje ve Yarışma Komitesi** bünyesine dahil olur ve Proje Direktörü ile birlikte çalışır.
-  * Proje ekibi oluştuktan sonra, o ekip artık sadece "bağımsız grup" değil, aynı zamanda **resmi proje ekibi** olarak faaliyet gösterir.
-
-* **Komitelerle Etkileşimi:**
-  * **Eğitim Komitesi:** Bir grup (örn: Web Grubu), kendi konularında **resmi bir atölye veya seminer** düzenlemek isterse, **Eğitim Komitesi**'ne başvurur ve birlikte organize eder.
-  * **Etkinlik Komitesi:** Bir grup (örn: AI Grubu), **teknik sohbet etkinliği** veya **demo günü** düzenlemek isterse, **Etkinlik Komitesi**'nden lojistik destek (salon, teknik altyapı, duyuru) alır.
-  * **Medya Komitesi:** Bir grup, geliştirdiği bir çalışmayı veya etkinliğini **duyurmak isterse**, **Medya Komitesi**'nden görsel tasarım ve sosyal medya desteği alır.
-  * **Proje Komitesi:** Grup üyeleri **proje ekibi kurmak isterse**, **Proje ve Yarışma Komitesi**'ne başvurarak resmi proje sürecine dahil olur.
