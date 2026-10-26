@@ -2,7 +2,7 @@
 	<img src="LOGO/logo-colored-2-nobg.png" alt="ASÜ-YMT Logo" width="180" />
 </p>
 
-<h1 align="center" style="width: 100%;" id="ASÜ-YMT BELGELERİ">ASÜ-YMT BELGELERİ</h1>
+<h1 align="center" style="width: 100%;" id="ASÜ-YMT BELGELERİ">AKSARAY ÜNİVERSİTESİ <br> YAZILIM MÜHENDİSLİĞİ TOPLULUĞU <br> BELGELERİ</h1>
 
 ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunumlar ve örnek codebase içerikleri burada tutulur.
 
