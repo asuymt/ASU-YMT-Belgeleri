@@ -37,18 +37,18 @@ ASÜ-YMT, **7 Komite** esasına dayalı bir yönetim modeliyle faaliyet gösteri
 
 ### YÖNETİM KURULU ÜYELERİ
 
-|     | **ROL**           | **AD SOYAD**         | **GÖREVİ**       |
-| --- | ----------------- | -------------------- | ---------------- |
-| 1   | Topluluk Başkanı  | Mehmet Akif AKKOÇ    | ∞                |
-| 2   | Başkan Yardımcısı | Elif YAĞIZ           | Dış İlişkiler    |
-| 3   | Genel Sekreter    | Süveyda Şeyma MERCAN | İdari İşler      |
-| 4   | Muhasip (Sayman)  |                      | Etkinlik         |
-| 5   | Kurul Üyesi       | Yaren BEŞER          | İnsan Kaynakları |
-| 6   | Kurul Üyesi       | Berfin ATAR          | Sosyal Medya     |
-| 7   | Kurul Üyesi       | Mert ŞAHİNOĞLU       | Web              |
-| 8   | Aday Üye          |                      | Proje            |
-| 9   | Aday Üye          |                      |                  |
-| 10  | Aday Üye          |                      |                  |
+|     | **ROL**           | **AD SOYAD**         | **GÖREVİ**                    |
+| --- | ----------------- | -------------------- | ----------------------------- |
+| 1   | Topluluk Başkanı  | Mehmet Akif AKKOÇ    | ∞                             |
+| 2   | Başkan Yardımcısı | Elif YAĞIZ           | Dış İlişkiler Koordinatörü    |
+| 3   | Genel Sekreter    | Süveyda Şeyma MERCAN | İdari İşler Koordinatörü      |
+| 4   | Muhasip (Sayman)  |                      | Etkinlikler Koordinatörü      |
+| 5   | Kurul Üyesi       | Yaren BEŞER          | İnsan Kaynakları Koordinatörü |
+| 6   | Kurul Üyesi       | Berfin ATAR          | Sosyal Medya Koordinatörü     |
+| 7   | Kurul Üyesi       | Mert ŞAHİNOĞLU       | Web Sitesi Koordinatörü       |
+| 8   | Aday Üye          |                      | Projeler Koordinatörü         |
+| 9   | Aday Üye          |                      |                               |
+| 10  | Aday Üye          |                      |                               |
 
 <br>
 
