@@ -37,21 +37,20 @@ ASÜ-YMT, **7 Komite** esasına dayalı bir yönetim modeliyle faaliyet gösteri
 
 ### YÖNETİM KURULU ÜYELERİ
 
-|     | **ROL**           | **AD SOYAD**         | **GÖREVİ**               |
-| --- | ----------------- | -------------------- | ------------------------ |
-| 1   | Topluluk Başkanı  | Mehmet Akif AKKOÇ    | ∞                        |
-| 2   | Başkan Yardımcısı | Elif YAĞIZ           | Dış İlişkiler            |
-| 3   | Genel Sekreter    | Süveyda Şeyma MERCAN | İdari İşler ve Belgeleme |
-| 4   | Muhasip (Sayman)  |                      | Etkinlik                 |
-| 5   | Kurul Üyesi       | Yaren BEŞER          | İnsan Kaynakları         |
-| 6   | Kurul Üyesi       | Berfin ATAR          | Sosyal Medya             |
-| 7   | Kurul Üyesi       |                      | Proje                    |
-| 8   | Aday Üye          |                      |                          |
-| 9   | Aday Üye          |                      |                          |
-| 10  | Aday Üye          |                      |                          |
+|     | **ROL**           | **AD SOYAD**         | **GÖREVİ**       |
+| --- | ----------------- | -------------------- | ---------------- |
+| 1   | Topluluk Başkanı  | Mehmet Akif AKKOÇ    | ∞                |
+| 2   | Başkan Yardımcısı | Elif YAĞIZ           | Dış İlişkiler    |
+| 3   | Genel Sekreter    | Süveyda Şeyma MERCAN | İdari İşler      |
+| 4   | Muhasip (Sayman)  |                      | Etkinlik         |
+| 5   | Kurul Üyesi       | Yaren BEŞER          | İnsan Kaynakları |
+| 6   | Kurul Üyesi       | Berfin ATAR          | Sosyal Medya     |
+| 7   | Kurul Üyesi       | Mert ŞAHİNOĞLU       | Web              |
+| 8   | Aday Üye          |                      | Proje            |
+| 9   | Aday Üye          |                      |                  |
+| 10  | Aday Üye          |                      |                  |
 
 <br>
-
 
 ### DENETLEME KURULU
 
@@ -66,23 +65,27 @@ ASÜ-YMT, **7 Komite** esasına dayalı bir yönetim modeliyle faaliyet gösteri
 
 ### EKİP ÜYESİ VE KOMİTELER
 
+
 |     | AD SOYAD             | Kıdemli | İdari | İK  | Dış İ | Etk | Sos | Proj | Web | Pasif |
 | --- | -------------------- | ------- | ----- | --- | ----- | --- | --- | ---- | --- | ----- |
-| 1   | Mehmet Akif AKKOÇ    |         |       |     |       |     |     |      |     |       |
-| 2   | Elif YAĞIZ           |         |       |     | x     |     |     |      |     |       |
-| 3   | Süveyda Şeyma Mercan |         | x     |     |       |     |     |      |     |       |
+| 1   | Mehmet Akif AKKOÇ    | x       |       |     |       |     |     |      |     |       |
+| 2   | Elif YAĞIZ           | x       |       |     | x     |     |     |      |     |       |
+| 3   | Süveyda Şeyma Mercan | x       | x     |     |       |     |     |      |     |       |
 | 4   | Yaren Beşer          |         |       | x   |       |     |     |      |     |       |
 | 5   | Berfin Atar          |         |       |     |       |     | x   |      |     |       |
-| 6   |                      |         |       |     |       | x   |     |      |     |       |
-| 7   |                      |         |       |     |       |     |     |      | x   |       |
+| 6   | Mert ŞAHİNOĞLU       |         |       |     |       |     |     |      | x   |       |
+| 7   |                      |         |       |     |       | x   |     |      |     |       |
 | -   | -                    | -       | -     | -   | -     | -   | -   | -    | -   |       |
 | 8   | Recep Beydüz         | x       |       |     |       |     |     |      |     | x     |
 | 9   | Mert Çelik           | x       |       |     |       |     |     |      |     | x     |
 | 10  | Ömür Faruk DURU      | x       |       |     |       |     |     |      |     | x     |
 | 11  | Hakan ULUÇAR         | x       |       |     |       |     |     |      |     | x     |
 | -   | -                    | -       | -     | -   | -     | -   | -   | -    | -   |       |
-| 12  | Ali Arda AYDIN       |         |       |     |       |     |     |      |     |       |
+| 12  | Ali Arda AYDIN       | x       |       |     |       |     |     |      |     | x     |
+| 13  | Yiğithan DEMİRER     |         |       |     |       | x   |     |      |     |       |
+| 14  | Ayşenaz CÜCÜK        |         |       |     |       | x   |     |      |     |       |
+| 15  | Yusuf Yasin ÇELİK    |         |       |     |       | x   |     |      |     |       |
 |     |                      |         |       |     |       |     |     |      |     |       |
 |     | AD SOYAD             | Kıdemli | İdari | İK  | Dış İ | Etk | Sos | Proj | Web | Pasif |
-|     | **TOPLAM:**          | 4       | 1     | 1   | 1     | 2   | 3   | 1    | 1   | 4     |
+| 15  | **TOPLAM:**          | 8       | 1     | 1   | 1     | 4   | 3   | 0    | 1   | 5     |
 
