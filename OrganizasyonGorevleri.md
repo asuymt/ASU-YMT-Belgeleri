@@ -3,7 +3,8 @@
 > Yayınlandı: 27.10.2025 <br>
 > 15.03.2026: Organizasyon yapısı güncellendi <br>
 > 25.10.2026: Görevler bu dosyaya taşındı <br>
-> 26.10.2026: 7 Komite modeli ve görevler liste formatında güncellendi
+> 26.10.2026: 7 Komite modeli ve görevler liste formatında güncellendi <br>
+> 25.11.2026: Tekrarlayan maddeler birleştirildi; web/GitHub bilgileri ve 24.11.2026 YK toplantısı görevleri işlendi
 
 <br>
 
@@ -132,21 +133,18 @@ Topluluğun kurumsal hafızasını korumak, resmi dilekçe ve izin süreçlerini
 
   * **Standart Dilekçe Şablonları:** SKS, Dekanlık ve Bölüm Başkanlığı için salon tahsisi, izin, afiş asma ve gezi dilekçe taslaklarını hazır tutmak.
   * **Karar Defteri Düzeni:** Alınan yönetim kararlarını resmi karar defterine düzenli, okunaklı ve mevzuata uygun şekilde işlemek.
-  * **Tutanak ve Yoklama Arşivi:** Toplantı notlarını, etkinlik katılım listelerini dijital sürücüde standart klasörleme ile arşivlemek.
-  * **Platform Bilgi Denetimi:** Web sitesi, sosyal medya bio'ları ve GitHub profillerindeki bilgilerin güncelliğini haftalık denetlemek.
-  * **Arşivleme Desteği:** Haftalık toplantı tutanak ve katılım listelerini dijital klasöre standart isimle yüklemek.
-  * **Platform Kontrolü:** GitHub, web sitesi ve sosyal medyadaki bio/link bilgilerini kontrol edip kırık linkleri raporlamak.
+  * **Tutanak ve Yoklama Arşivi:** Haftalık toplantı tutanaklarını ve etkinlik katılım listelerini dijital sürücüye standart klasörleme ve isimlendirme ile arşivlemek.
+  * **Platform Bilgi Denetimi:** Topluluk tüzüğünün ve genel bilgilerinin göründüğü tüm platformları (web sitesi, Instagram, LinkedIn, GitHub, ASÜ Topluluklar Platformu) haftalık denetlemek; güncel olmayan bilgileri ve kırık linkleri raporlamak.
 
 ### 4.2 İnsan Kaynakları Komitesi
 Topluluk içi iletişimi, ekip motivasyonunu ve üye takibini yürütmek; yeni üye kazanım süreçlerini ve komite yürütücülerinin halef yetiştirme düzenini koordine etmekle sorumludur.
 
   * **Çırak Yetiştirme Koordinasyonu:** Yürütücülerin yanlarına alt dönemlerden asistan alarak süreçleri birlikte yürütmesini takip etmek.
-  * **Ekip Takip Tablosu:** Ekip üyeleri listesini güncel tutmak; toplantı öncesi katılım ve aktiflik durumunu işlemek.
+  * **Ekip Takip Tablosu:** Ekip üyeleri listesini güncel tutmak; etkinlik ve toplantı katılım verilerini ve aktiflik durumunu işlemek.
+  * **Görev Takibi ve Hatırlatma:** Tüm ekibin, özellikle yönetim kurulunun görevlerini takip etmek ve WhatsApp grubunda düzenli hatırlatma yapmak.
   * **Emek – Fayda – Ayrıcalık Matrisi:** Üyelerin sorumluluk ve çıktılarını değerlendirerek önceliklerini belirlemek.
   * **Kurumsal Aidiyet ve LinkedIn Kontrolü:** Ekip üyelerinin LinkedIn profillerinde ASÜ-YMT deneyimini doğru biçimde eklemesini ve topluluk hesaplarını takip etmesini sağlamak.
-  * **Üye Kazanımı ve Oryantasyon:** Genel üye tabanını genişletmeye ve aktifliği artırmaya yönelik tanışma ve oryantasyon süreçlerini kurgulamak.
-  * **Yoklama ve Durum Takibi:** Etkinlik veya toplantı katılım verilerini üye takip tablosuna işlemek.
-  * **Oryantasyon Desteği:** Yeni katılan üyelere topluluk işleyişini anlatan kısa karşılama iletişimi kurmak.
+  * **Üye Kazanımı ve Oryantasyon:** Genel üye tabanını genişletmeye yönelik tanışma ve oryantasyon süreçlerini kurgulamak; yeni katılan üyelere topluluk işleyişini anlatan karşılama iletişimi kurmak.
 
 ### 4.3 Dış İlişkiler Komitesi
 Topluluğun üniversite dışı paydaşlar, Teknopark firmaları, teknoloji şirketleri, akademisyenler ve mezunlarla ilişkilerini kurmak; etkinlikler için ayni ve nakdi sponsorluk kaynakları sağlamakla sorumludur.
@@ -174,7 +172,7 @@ Topluluğun tüm etkinliklerinin (seminer, konferans, atölye, sosyal faaliyetle
 
 
 ### 4.5 Sosyal Medya Komitesi
-Topluluğun marka imajını, profesyonel itibarını ve online görünürlüğünü doğrudan yönetir. Sosyal medya ve web sitesi ekiplerini koordine eder. Tüm dijital içeriklerin (metin, görsel, video) topluluk değerlerine uygun, profesyonel ve kaliteli olmasını sağlar. Topluluk faaliyetlerinin etkili bir şekilde duyurulmasından, dijital platformlardaki etkileşimin artırılmasından ve topluluk imajının korunmasından tam sorumluluk taşır.
+Topluluğun marka imajını, profesyonel itibarını ve online görünürlüğünü doğrudan yönetir. Sosyal medya ekibini koordine eder. Tüm dijital içeriklerin (metin, görsel, video) topluluk değerlerine uygun, profesyonel ve kaliteli olmasını sağlar. Topluluk faaliyetlerinin etkili bir şekilde duyurulmasından, dijital platformlardaki etkileşimin artırılmasından ve topluluk imajının korunmasından tam sorumluluk taşır.
 
   * **Görünüm Yönetimi:** Topluluğun sosyal medya hesaplarını aktif ve profesyonel bir şekilde yönetir.
   * **Şablon Tasarımı:** Hazır Canva/Figma şablonuna bülten veya duyuru metnini yerleştirmek.
@@ -199,9 +197,9 @@ Topluluğun amaç ve hedefleri doğrultusunda gerekli projeleri organize eder. T
 
 
 ### 4.7 Web ve Teknik Altyapı Komitesi
-`asuymt.com` web sitesinin ve topluluğa ait dijital sistemlerin geliştirilmesi, altyapı güvenliği ve GitHub organizasyonunun teknik standartlara uygun işletilmesinden sorumludur.
+`www.asuymt.com` web sitesinin ve topluluğa ait dijital sistemlerin geliştirilmesi, altyapı güvenliği ve [GitHub organizasyonunun](https://github.com/asuymt) teknik standartlara uygun işletilmesinden sorumludur.
 
-  * **Altyapı ve Güvenlik:** Teknik altyapısını kurar ve yönetir. `asuymt.com` alan adı, Cloudflare, barındırma ayarları ve SSL sertifikalarının sürekliliğini sağlamak.
+  * **Altyapı ve Güvenlik:** Teknik altyapısını kurar ve yönetir. `asuymt.com` alan adı, Cloudflare (DNS, Pages yayını, yönlendirmeler) ve SSL sertifikalarının sürekliliğini sağlamak.
   * **GitHub Organizasyonu:** Depoların (repo), issue'ların, PR standartlarının ve teknik dokümantasyonun düzenini korumak.
   * **Duyurular ve Paylaşımlar:** Etkinlik duyuruları, blog yazıları, proje tanıtımları gibi içeriklerin web sitesine düzenli olarak eklenmesini koordine eder.
   * **Arayüz Tasarımı (UI/UX):** Duyuru veya ekip sayfası için 1 adet Figma kart/liste bileşeni tasarlamak.
@@ -209,4 +207,4 @@ Topluluğun amaç ve hedefleri doğrultusunda gerekli projeleri organize eder. T
   * **Mobil Uyumluluk Testi:** Sitenin farklı ekran boyutlarındaki hatalarını tespit edip GitHub Issue olarak girmek.
   * **Duyurular Modülü:** Topluluk içi ve dışı duyuruların yayımlanacağı sayfayı öncelikli olarak canlıda tutmak.
   * **Alt Sayfalar:** Geçmiş/gelecek etkinlikleri ve topluluk kadrosunu sergileyen modülleri geliştirmek, sayfaları aktif ve güncel tutmak.
-  * **Blog Yazısı:** `asuymt.com` için blog yazıları hazırlatmak ve paylaşmak.
+  * **Blog Yazısı:** `www.asuymt.com` için blog yazıları hazırlatmak ve paylaşmak.

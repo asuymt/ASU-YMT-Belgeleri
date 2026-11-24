@@ -1,6 +1,6 @@
 # ASÜ-YMT OYUN GECESİ
 
-> Tarih: 5 Mart 2026 Cuma
+> Tarih: 6 Mart 2026 Cuma
 
 > Saat : 19:30 - 22:30
 

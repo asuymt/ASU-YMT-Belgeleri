@@ -13,6 +13,7 @@
 - 07.10.2025 - Topluluk Resmi Olarak Oluşturuldu
 - 08.10.2025 - Topluluk İnstagram hesabı açıldı
 - 10.10.2025 - Topluluk GitHub hesabı açıldı
+- 25.11.2026 - GitHub hesabı organizasyona dönüştürüldü ([github.com/asuymt](https://github.com/asuymt))
 
 
 <hr><br><br>
@@ -64,7 +65,8 @@
 | Kısa Ad        | ASÜ-YMT                                             |
 | Konum          | Mühendislik Fakültesi, Aksaray Üniversitesi         |
 | Kuruluş Tarihi | Ekim 2025                                           |
-| Web Sitesi     | [https://asuymt.com](https://asuymt.com)            |
+| Web Sitesi     | [www.asuymt.com](https://www.asuymt.com)            |
+| GitHub         | [github.com/asuymt](https://github.com/asuymt)      |
 |                |                                                     |
 
 
@@ -126,7 +128,7 @@ Hedeflere ulaşmak için "Ne yapılacağını" belirtir.
 - Topluluk organizasyonu ve rolleri, topluluğun etkin ve verimli bir şekilde yönetilmesini ve sürdürülebilirliğini sağlamak amacıyla yapılandırılmıştır.
 - Topluluk, hiyerarşik bir yapıya sahip olup, her üyenin rolü ve sorumlulukları net bir şekilde anlamlandırılmıştır.
 - Bu yapı; yönetim ve karar alma süreçlerini, etkin iletişim ve işbirliğini kolaylaştırmayı amaçlar.
-- Süreç içerisinde yapı ve rollerin esnekliği, topluluğun dinamiklerine göre güncellenicektir.
+- Süreç içerisinde yapı ve rollerin esnekliği, topluluğun dinamiklerine göre güncellenecektir.
 
 bkz. [Organizasyon YAPISI](OrganizasyonYapisi.md)
 

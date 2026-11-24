@@ -13,6 +13,7 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 - [Topluluk Hakkında](Topluluk-hakkinda.md)
 - [Organizasyon Yapısı](OrganizasyonYapisi.md)
 - [Organizasyon Görevleri](OrganizasyonGorevleri.md)
+- [Etkinlikler ve Etkinlik Geçmişi](ETKİNLİKLER/readme.md)
 - [Bilgi-Belge-Public Drive](https://drive.google.com/drive/folders/16QC0HHHCLFOzn_hFLOtWJABrl4YtSP6X)
 
 <br>
@@ -20,9 +21,10 @@ ASÜ-YMT'nin GitHub deposu: topluluk belgeleri, etkinlik arşivi, raporlar, sunu
 ## İletişim ve Bağlantılar
 
 <div style="display: flex; flex-direction: row;gap: 10px;">
-    <a href="https://asuymt.com/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Website: asuymt.com</a> | 
+    <a href="https://www.asuymt.com/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Website: www.asuymt.com</a> | 
     <a href="https://www.instagram.com/asuymt/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">Instagram: @asuymt</a> | 
-    <a href="https://www.linkedin.com/company/asuymt/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">LinkedIn: ASÜ-YMT</a>
+    <a href="https://www.linkedin.com/company/asuymt/" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">LinkedIn: ASÜ-YMT</a> | 
+    <a href="https://github.com/asuymt" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px;">GitHub: asuymt</a>
 </div>
 
 <br>

@@ -2,7 +2,8 @@
 
 - Yayınlandı: 27.10.2025
 - 15.03.2026: Organizasyon yapısı güncellendi
-- 25.10.2026: - Organizasyon yapısı güncellendi, görev tanımları başka belgeye ayrıldı.
+- 25.10.2026: Organizasyon yapısı güncellendi, görev tanımları [Organizasyon Görevleri](OrganizasyonGorevleri.md) belgesine ayrıldı.
+- 25.11.2026: YK tablosu sadeleştirildi, ekip tablosu toplamları düzeltildi.
 
 <br>
 
@@ -46,9 +47,8 @@ ASÜ-YMT, **7 Komite** esasına dayalı bir yönetim modeliyle faaliyet gösteri
 | 5   | Kurul Üyesi       | Yaren BEŞER          | İnsan Kaynakları Koordinatörü |
 | 6   | Kurul Üyesi       | Berfin ATAR          | Sosyal Medya Koordinatörü     |
 | 7   | Kurul Üyesi       | Mert ŞAHİNOĞLU       | Web Sitesi Koordinatörü       |
-| 8   | Aday Üye          |                      | Projeler Koordinatörü         |
-| 9   | Aday Üye          |                      |                               |
-| 10  | Aday Üye          |                      |                               |
+
+> Not: Yönetim kurulu aday üyeleri kamuya açık belgelerde yer almaz.
 
 <br>
 
@@ -74,18 +74,17 @@ ASÜ-YMT, **7 Komite** esasına dayalı bir yönetim modeliyle faaliyet gösteri
 | 4   | Yaren Beşer          |         |       | x   |       |     |     |      |     |       |
 | 5   | Berfin Atar          |         |       |     |       |     | x   |      |     |       |
 | 6   | Mert ŞAHİNOĞLU       |         |       |     |       |     |     |      | x   |       |
-| 7   |                      |         |       |     |       | x   |     |      |     |       |
 | -   | -                    | -       | -     | -   | -     | -   | -   | -    | -   |       |
-| 8   | Recep Beydüz         | x       |       |     |       |     |     |      |     | x     |
-| 9   | Mert Çelik           | x       |       |     |       |     |     |      |     | x     |
-| 10  | Ömür Faruk DURU      | x       |       |     |       |     |     |      |     | x     |
-| 11  | Hakan ULUÇAR         | x       |       |     |       |     |     |      |     | x     |
+| 7   | Recep Beydüz         | x       |       |     |       |     |     |      |     | x     |
+| 8   | Mert Çelik           | x       |       |     |       |     |     |      |     | x     |
+| 9   | Ömür Faruk DURU      | x       |       |     |       |     |     |      |     | x     |
+| 10  | Hakan ULUÇAR         | x       |       |     |       |     |     |      |     | x     |
 | -   | -                    | -       | -     | -   | -     | -   | -   | -    | -   |       |
-| 12  | Ali Arda AYDIN       | x       |       |     |       |     |     |      |     | x     |
-| 13  | Yiğithan DEMİRER     |         |       |     |       | x   |     |      |     |       |
-| 14  | Ayşenaz CÜCÜK        |         |       |     |       | x   |     |      |     |       |
-| 15  | Yusuf Yasin ÇELİK    |         |       |     |       | x   |     |      |     |       |
+| 11  | Ali Arda AYDIN       | x       |       |     |       |     |     |      |     | x     |
+| 12  | Yiğithan DEMİRER     |         |       |     |       | x   |     |      |     |       |
+| 13  | Ayşenaz CÜCÜK        |         |       |     |       | x   |     |      |     |       |
+| 14  | Yusuf Yasin ÇELİK    |         |       |     |       | x   |     |      |     |       |
 |     |                      |         |       |     |       |     |     |      |     |       |
 |     | AD SOYAD             | Kıdemli | İdari | İK  | Dış İ | Etk | Sos | Proj | Web | Pasif |
-| 15  | **TOPLAM:**          | 8       | 1     | 1   | 1     | 4   | 3   | 0    | 1   | 5     |
+| 14  | **TOPLAM:**          | 8       | 1     | 1   | 1     | 3   | 1   | 0    | 1   | 5     |
 
