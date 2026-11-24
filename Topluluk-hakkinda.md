@@ -155,7 +155,7 @@ Bu bölüm, topluluğa kimlerin, nasıl katılabileceğini ve üyelik durumları
 - **Üyeliğe Kabul:** Başvuru süreci, değerlendirme ve kabul adımları.
 - **Üyelikten Ayrılma:** Üyenin kendi isteğiyle ayrılma prosedürü.
 - **Üyeliğin Sona Ermesi:** Mezuniyet, okuldan ayrılma gibi durumlar.
-- **Üyelikten Çıkarılma:** Tüzüğe aykırı davranışlar, topluluk adını kötüye kullanma gibi durumlarda Yönetim Kurulu'nun önerisi ve Disiplin Kurulu (veya Genel Kurul) kararıyla üyeliğin sonlandırılması süreci.
+- **Üyelikten Çıkarılma:** Tüzüğe aykırı davranışlar, topluluk adını kötüye kullanma gibi durumlarda Yönetim Kurulu'nun önerisi ve Denetleme Kurulu (veya Genel Kurul) kararıyla üyeliğin sonlandırılması süreci.
 
 ### 3.3 Üyelerin Hak ve Sorumlulukları
 - **Üyelerin Hakları:**
